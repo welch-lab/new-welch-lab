@@ -15,7 +15,7 @@ Department of Computer Science and Engineering
 University of Michigan
 Ann Arbor, MI
 
-Job Summary and Responsibilities:
+**Job Summary and Responsibilities:**
 
 The Welch Laboratory at the University of Michigan is seeking a postdoctoral researcher to
 develop and apply algorithms, machine learning methods, and statistical models for analysis of
