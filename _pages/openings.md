@@ -8,11 +8,16 @@ permalink: /vacancies
 
 # Open positions
 
-**Postdoctoral Researcher**
+Postdoctoral Researcher
+
 Laboratory of Joshua Welch
+
 Department of Computational Medicine and Bioinformatics
+
 Department of Computer Science and Engineering
+
 University of Michigan
+
 Ann Arbor, MI
 
 **Job Summary and Responsibilities:**
@@ -29,6 +34,7 @@ NIH-funded projects. We have data and biological collaborators from several diff
 including mouse bone marrow, mouse brain, and human hematopoietic stem cells. This is such
 an exciting and fast-moving field that Nature Methods recently selected “Single-Cell Multimodal
 Omics Analysis” as the Method of the Year 2019.
+
 A unique benefit of this position is the rich set of collaborative opportunities available, allowing
 truly interdisciplinary training. Our collaborative network includes bench scientists and
 computational method development colleagues within the Michigan Center for Single-Cell
@@ -43,6 +49,9 @@ Life scientists with significant computational expertise should also apply. Addi
 qualities include the ability to effectively work both independently and in a team, good
 communication skills, and a love for both computational method development and biological
 discovery.
+
 Interested applicants should submit a brief statement of interest, CV, and contact information
-for three references. For questions regarding the position, please contact Dr. Joshua Welch at
+for three references. 
+
+For questions regarding the position, please contact Dr. Joshua Welch at
 welchjd@umich.edu.
