@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Welch Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Welch Lab at University of Michigan, Medical School"
 sitemap: false
 permalink: /
 ---
