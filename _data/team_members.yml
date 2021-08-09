@@ -55,13 +55,7 @@
   email: 
   number_educ: 0
 
-- name: Jialin Liu
-  photo: Jialin-Liu.jpeg
-  info: DCMB Ph.D. Candidate
-  email:
-  number_educ: 0
-  
-  - name: Joshua Sodicoff
+- name: Joshua Sodicoff
   photo: Joshua-Sodicoff.jpg
   info: Data Science BS Student
   email: 
