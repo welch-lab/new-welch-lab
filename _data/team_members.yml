@@ -32,52 +32,53 @@
   email:
   number_educ: 0
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+- name: Yichen Gu
+  photo: YichenGu_Resized.png
+  info: CSE Ph.D. Candidate (joint with David Blaauw)
+  email: 
+  number_educ: 0
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+- name: April Kriebel
+  photo: april_kriebel.png
+  info: DCMB Ph.D. Candidate
+  email: 
+  number_educ: 0
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
+- name: Hojae Lee
+  photo: hojae-lee.jpg
+  info: ECE Ph.D. Candidate
+  email: 
+  number_educ: 0
 
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
+- name: Chen Li
+  photo: Chen-Li.jpg
+  info: DCMB Ph.D. Student
   email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+  number_educ: 0
 
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
+- name: Jialin Liu
+  photo: Jialin-Liu.jpeg
+  info: DCMB Ph.D. Candidate
+  email: 
+  number_educ: 0
+  
+  - name: Joshua Sodicoff
+  photo: Joshua-Sodicoff.jpg
+  info: Data Science BS Student
+  email: 
+  number_educ: 0
+  
+  - name: Lu Lu
+  photo: LuLu-Wang.jpg
+  info: DCMB MS Student
+  email: 
+  number_educ: 0
+  
+  - name: Hengshi Yu
+  photo: hengshi_yu.jpg
+  info: Biostatistics Ph.D. Candidate
+  email: 
+  number_educ: 0
 
 - name: "This could be you !"
   photo: rock.jpg
