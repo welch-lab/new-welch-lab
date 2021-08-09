@@ -13,7 +13,6 @@
   email: 
   number_educ: 0
 
-
 - name: Angel Ka Yan Chu
   photo: angel_chu.jpg
   info: DCMB MS Student
@@ -53,13 +52,13 @@
 - name: Chen Li
   photo: Chen-Li.jpg
   info: DCMB Ph.D. Student
-  email: Oosten@fmd.physics.leidenuniv.nl
+  email: 
   number_educ: 0
 
 - name: Jialin Liu
   photo: Jialin-Liu.jpeg
   info: DCMB Ph.D. Candidate
-  email: 
+  email:
   number_educ: 0
   
   - name: Joshua Sodicoff
@@ -83,7 +82,7 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  email: 
   number_educ: 0
   education1:
   education2:
