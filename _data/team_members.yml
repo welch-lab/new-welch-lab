@@ -60,3 +60,15 @@
   info: Data Science BS Student
   email:
   number_educ: 0
+
+- name: Lu Lui
+  photo: LuLu-Wang.jpg
+  info: DCMB MS Student
+  email:
+  number_educ: 0
+  
+- name: Hengshi Yu
+  photo: hengshi_yu.jpg
+  info: Biostatistics Ph.D. Candidate
+  email: 
+  number_educ: 0
