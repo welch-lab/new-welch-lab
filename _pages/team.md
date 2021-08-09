@@ -108,8 +108,5 @@ Jump to [staff](#lab), [master and bachelor students](#master-and-bachelor-stude
 </div>
 {% endif %}
 
-</div>
-
-
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<a href="mailto:email@umich.edu">Lab Admin</a> is helping us (and other groups) with administration.
