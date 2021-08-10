@@ -1,6 +1,6 @@
 - title: "Community-wide hackathons to identify central themes in single-cell multi-omics. Genome"
   image: TBG_SL.png
-  description: 
+  description: This article articulates the needs for technologies, data, tools, and computational methods to model the multi-scale regulatory processes of biological systems in single-cell identified our three hackathon studies. It leverages these challenges to present a broad overview of the different types of analysis methods that can be currently applied to identify regulatory processes from multi-omics single-cell data sets and promising areas of future algorithmic development.
   authors: Lê Cao KA, Abadi AJ, Davis-Marcisak EF, Hsu L, Arora A, Coullomb A, Deshpande A, Feng Y, Jeganathan P, Loth M, Meng C, Mu W, Pancaldi V, Sankaran K, Singh A, Sodicoff JS, Stein-O’Brien GL, Subramanian A, Welch JD, You Y, Argelaguet R, Carey VJ, Dries R, Greene CS, Holmes S, Love MI, Ritchie ME, Yuan GC, Culhane AC, Fertig E
   link:
     url: https://doi.org/10.1186/s13059-021-02433-9
@@ -10,10 +10,10 @@
 
 - title: "Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dentistry (in press)"
   image: TiNHigh.png
-  description: 
+  description: Collectively, our findings provide insights into the lineage hierarchy and intercellular interactions of cells in the periodontium at a single-cell level, aiding to understand cellular and molecular basis of periodontal tissue formation.
   authors: Nagata M, Ka Yan Chu A, Ono N, Welch JD, Ono W
   link:
-    url: 
+    url: https://www.frontiersin.org/articles/10.3389/fdmed.2021.679937/abstract
     display: Frontiers in Dentistry (in press)
   highlight: 1
 
