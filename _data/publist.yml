@@ -1,20 +1,20 @@
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
+- title: "Community-wide hackathons to identify central themes in single-cell multi-omics. Genome"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  description: 
+  authors: Lê Cao KA, Abadi AJ, Davis-Marcisak EF, Hsu L, Arora A, Coullomb A, Deshpande A, Feng Y, Jeganathan P, Loth M, Meng C, Mu W, Pancaldi V, Sankaran K, Singh A, Sodicoff JS, Stein-O’Brien GL, Subramanian A, Welch JD, You Y, Argelaguet R, Carey VJ, Dries R, Greene CS, Holmes S, Love MI, Ritchie ME, Yuan GC, Culhane AC, Fertig E
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153
+    url: https://doi.org/10.1186/s13059-021-02433-9
+    display:  Genome Biol 22, 220 (2021)
   highlight: 1
   news2:
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+- title: "Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dentistry (in press)"
   image: TiNHigh.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+  description: 
+  authors: Nagata M, Ka Yan Chu A, Ono N, Welch JD, Ono W
   link:
-    url: https://arxiv.org/abs/2101.08535
-    display: arXiv:2101.08535 (2021)
+    url: 
+    display: Frontiers in Dentistry (in press)
   highlight: 1
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
@@ -297,36 +297,4 @@
   link:
     url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
     display: Nature Physics 5, 800 (2009)
-  highlight: 0
-
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
-  link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
-
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
-  description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
-  link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
   highlight: 0
