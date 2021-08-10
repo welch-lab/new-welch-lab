@@ -56,7 +56,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 ## Department of Computational Medicine and Bioinformatics - University of Michigan, Ann Arbor, MI
 From the [2018 DCMB Retreat](http://ccmb.med.umich.edu).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/DCMB-2018.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/2018-DCMB.jpg" width="60%">
 </figure>
 
 
