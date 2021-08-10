@@ -26,14 +26,13 @@
     display:  bioRxiv
   highlight: 1
 
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
+- title: "Intercellular interactions of an adipogenic CXCL12‐expressing stromal cell subset in murine bone marrow"
+  image: pub4.gif
   description: 
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+  authors: Matsushita Y, Ka Yan Chu A, Ono W, Welch JD, Ono N
   link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
-  highlight: 0
+    url: https://doi.org/10.1002/jbmr.4282
+    display: Journal of Bone and Mineral Research 2021
   news2:
 
 - title: "Observation of flat bands in twisted bilayer graphene"
@@ -43,7 +42,7 @@
   link:
     url: https://www.nature.com/articles/s41567-020-01041-x
     display:  Nature Physics 17, 198 (2020)
-  highlight: 1
+  highlight: 0
   news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
 
 - title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
