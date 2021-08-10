@@ -11,7 +11,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 ## Leiden
 
-#### Department of Computational Medicine and Bioinformatics](https://medicine.umich.edu/dept/computational-medicine-bioinformatics/):
+#### Department of Computational Medicine and Bioinformatics](https://ccmb.med.umich.edu):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cpwvgQShFq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Gallery
