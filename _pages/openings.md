@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-Postdoctoral Researcher
+**Postdoctoral Researcher**
 
 Laboratory of Joshua Welch
 
