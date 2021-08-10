@@ -35,42 +35,42 @@
     display: Journal of Bone and Mineral Research 2021
   highlight: 1
 
-- title: "Observation of flat bands in twisted bilayer graphene"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+- title: "Sampling from disentangled representations of single-cell data using generative adversarial networks"
+  image: 
+  description: 
+  authors: Yu H, Welch JD
   link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
+    url: https://doi.org/10.1186/s13059-021-02373-4
+    display:  Genome Biology 22, 158 (2021)
   highlight: 0
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
+  news2: Also presented at Learning Meaningful Representations of Life (LMRL 2020), Workshop at NeurIPS 2020.
 
-- title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
-  image: Direct.png
-  authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
-  description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+- title: "Real-Time, Direct Classification of Nanopore Signals Using SquiggleNet"
+  image: 
+  authors: Bao Y, Welch JD
+  description: Also presented at Machine Learning in Computational Biology (MLCB 2020). https://www.biorxiv.org/content/10.1101/2021.01.15.426907v1
   link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
+    url: https://www.biorxiv.org/content/10.1101/2021.01.15.426907v1
+    display:  bioRxiv
   highlight: 0
   news2:
 
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
+- title: "A multimodal cell census and atlas of the mammalian primary motor cortex"
+  image: 
+  authors: 
   description:
   link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst. Nanoeng. 6, 99 (2020)
+    url: https://doi.org/10.1101/2020.10.19.343129
+    display:  bioRxiv
   highlight: 0
   news2:
 
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
+- title: "G-CSF Secreted by Epigenetically Reprogrammed Mutant IDH1 Glioma Stem Cells Reverses the Meloid Cells’-Mediated Immunosuppressive Tumor Microenvironment"
+  image: 
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
   authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
+    url: https://doi.org/10.1101/2020.07.22.215954
+    display:  PbioRxiv
   highlight: 0
   news2:
