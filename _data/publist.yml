@@ -17,25 +17,24 @@
     display: Frontiers in Dentistry (in press)
   highlight: 1
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
+- title: "Nonnegative matrix factorization integrates single-cell multi-omic datasets with partially overlapping features"
   image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+  description: Single-cell genomic technologies provide an unprecedented opportunity to define molecular cell types in a data-driven fashion, but present unique data integration challenges. Integration analyses often involve datasets with partially overlapping features, including both shared features that occur in all datasets and features exclusive to a single experiment. Previous computational integration approaches require that the input matrices share the same number of either genes or cells, and thus can use only shared features. To address this limitation, we derive a novel nonnegative matrix factorization algorithm for integrating single-cell datasets containing both shared and unshared features.
+  authors: Kriebel AR, Welch JD
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
+    url: https://www.biorxiv.org/content/10.1101/2021.04.09.439160v1
+    display:  bioRxiv
   highlight: 1
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
-  description:
+  description: 
   authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
   link:
     url: https://dx.doi.org/10.1038/s41535-020-00303-4
     display: npj Quantum Materials 6, 7 (2021)
   highlight: 0
   news2:
-
 
 - title: "Observation of flat bands in twisted bilayer graphene"
   image: TBG_ARPES.png
