@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are currently looking for a Postdoctoral Researcher to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#lab), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
@@ -109,4 +109,4 @@ Jump to [staff](#lab), [master and bachelor students](#master-and-bachelor-stude
 {% endif %}
 
 ## Administrative Support
-<a href="mailto:email@umich.edu">Lab Admin</a> is helping us (and other groups) with administration.
+<a href="mailto:email@umich.edu">Lab Admin HERE</a> is helping us (and other groups) with administration.
