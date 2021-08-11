@@ -46,16 +46,14 @@ permalink: /pictures/
 
 <p> &nbsp; </p>
 
-### Department of Computational Medicine and Bioinformatics](https://ccmb.med.umich.edu):
+### Department of Computational Medicine and Bioinformatics (https://ccmb.med.umich.edu): ###
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cpwvgQShFq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-DCMB Promo Video
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/2018-DCMB.jpg" width="60%">
 </figure>
 
-From the [2018 DCMB Retreat](http://ccmb.med.umich.edu).
+From the [2018 DCMB Retreat]
 
 
