@@ -1,11 +1,11 @@
 ---
-title: "Welch Lab - Pictures"
+title: "Welch Lab - Software"
 layout: piclay
-excerpt: "Welch Lab -- Pictures"
-permalink: /pictures/
+excerpt: "Welch Lab -- Software"
+permalink: /software/
 ---
 
-# Pictures
+# Software
 
 #### Welch Lab Gallery
 (Right-click *'view image'* to see a larger image.)
