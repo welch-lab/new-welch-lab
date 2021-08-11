@@ -7,48 +7,23 @@ permalink: /software
 
 # Software
 
-#### Welch Lab Gallery
-(Right-click *'view image'* to see a larger image.)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+**AppEnD tool for mapping 3’ additions from RNA-seq data**
+https://github.com/jw156605/append
 
-{% assign even_odd = number_printed | modulo: 4 %}
+**SingleSplice algorithm for detecting alternative splicing in a population of single cells**
+https://github.com/jw156605/SingleSplice
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+**SLICER (Selective Locally Linear Inference of Cellular Expression Relationships)**
+https://github.com/jw156605/SLICER
 
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
+**MATCHER (Manifold Alignment to Characterize Experimental Relationships)**
+https://github.com/jw156605/MATCHER
 
-{% assign number_printed = number_printed | plus: 1 %}
+**LIGER (Linked Inference of Genomic Experimental Relationships)**
+https://github.com/welch-lab/liger
 
-{% if even_odd > 2 %}
-</div>
-{% endif %}
+**MichiGAN (Sampling from Disentangled Representations of Cell Identity using Generative Adversarial Networks)**
+https://github.com/welch-lab/MichiGAN
 
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-### Department of Computational Medicine and Bioinformatics (https://ccmb.med.umich.edu): ###
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/2018-DCMB.jpg" width="60%">
-</figure>
-From the [2018 DCMB Retreat]
+**SquiggleNet (Real-Time, Direct Classification of Nanopore Signals)**
+https://github.com/welch-lab/SquiggleNet
