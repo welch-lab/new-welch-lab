@@ -134,3 +134,122 @@
     display: 
   highlight: 0
   news2: 
+
+- title: "MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics"
+  description: 
+  authors: Welch JD, Hartemink AJ, Prins JF
+  link:
+    url: https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-017-1269-0
+    display:  Genome Biology 2017.
+  highlight: 0
+  news2: *Also accepted at RECOMB 2017 under the title “E Pluribus Unum: United States of Single Cells”.
+  
+- title: "Selective Single Cell Isolation for Genomics Using Microraft Arrays"
+  image: 
+  description: 
+  authors: Welch JD*, Williams LA*, DiSalvo M*, Brandt AT, Marayati R, Sims CE, Allbritton NL, Prins JF, Yeh JJ, Jones CD
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5041489/pdf/gkw700.pdf
+    display:  Nucleic Acids Research 2016
+  highlight: 0
+  news2:
+  
+- title: "A subset of replication-dependent histone mRNAs are expressed as polyadenylated RNAs in terminally differentiated tissues"
+  image: 
+  description: 
+  authors: Lyons SM, Cunningham CH, Welch JD, Groh B, Guo AY, Wei B, Whitfield ML, Xiong Y, Marzluff WF
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100578/pdf/gkw620.pdf
+    display:  Nucleic Acids Research 2016
+  highlight: 0
+  news2:
+  
+- title: "SLICER: Inferring branched, nonlinear cellular trajectories from single cell RNA-seq data"
+  image: 
+  description: 
+  authors: Welch JD, Hartemink AJ, Prins JF
+  link:
+    url: https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-016-0975-3
+    display:  Genome Biology 2016, 17
+  highlight: 0
+  news2:
+  
+- title: "Robust Detection of Alternative Splicing in a Population of Single Cells"
+  image: 
+  description: 
+  authors: Welch JD, Hu Y, Prins JF
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4856971/pdf/gkv1525.pdf
+    display:  Nucleic Acids Research 2016
+  highlight: 0
+  news2: *Also accepted as a highlight at ISMB 2016
+  
+- title: "A multi-protein occupancy map of the mRNP on the 3′ end of histone mRNAs"
+  image: 
+  description: 
+  authors: Brooks L, Lyons SM, Mahoney JM, Welch JD, Liu Z, Marzluff WM, Whitfield ML
+  link:
+    url: https://rnajournal.cshlp.org/content/21/11/1943.full.pdf+html
+    display:  RNA 2015
+  highlight: 0
+  news2:
+  
+- title: "EnD-Seq and AppEnD: Sequencing 3′ ends to identify nontemplated tails and degradation intermediates"
+  image: 
+  description: 
+  authors: Welch JD*, Slevin MK*, Tatomer D, Duronio RJ, Prins JF, Marzluff WF
+  link:
+    url: https://rnajournal.cshlp.org/content/21/7/1375.full.pdf+html
+    display:  RNA 2015
+  highlight: 0
+  news2: *Equal contribution
+  
+- title: "Pseudogenes Transcribed in Breast Invasive Carcinoma Show Subtype-Specific Expression and ceRNA Potential"
+  image: 
+  description: 
+  authors: Welch JD, Baran-Gale J, Perou C, Sethupathy P, Prins JF
+  link:
+    url: https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-015-1227-8
+    display:  BMC Genomics 2015
+  highlight: 0
+  news2:
+  
+- title: "Deep Sequencing Shows Multiple Oligouridylations Are Required for 3′ to 5′ Degradation of Histone mRNAs on Polyribosomes"
+  image: 
+  description: 
+  authors: Slevin MK, Meaux S, Welch JD, Bigler R, Miliani de Marval PL, Su W, Rhoads RE, Prins JF, Marzluff WF
+  link:
+    url: https://www.cell.com/action/showPdf?pii=S1097-2765%2814%2900199-3
+    display:  Molecular cell 53 (6), 1020-1030. March 2014
+  highlight: 0
+  news2:
+  
+- title: "WordSeeker: concurrent bioinformatics software for discovering genome-wide patterns and word-based genomic signatures"
+  image: 
+  description: 
+  authors: Lichtenberg J, Kurz K, Liang X, Al-ouran R, Neiman L, Nau LJ, Welch JD, Jacox E, Bitterman T, Ecker K, Elnitski L, Drews F, Lee SS, Welch LR
+  link:
+    url: #
+    display:  BMC Bioinformatics. 2010 Dec 21;11 Suppl 12:S6
+  highlight: 0
+  news2:
+  
+- title: "The word landscape of the non-coding segments of the Arabidopsis thaliana genome. BMC Genomics"
+  image: 
+  description: 
+  authors: Lichtenberg J, Yilmaz A, Welch JD, Kurz K, Liang X, Drews F, Ecker K, Lee SS, Geisler M, Grotewold E, Welch LR
+  link:
+    url: 
+    display:  BMC Genomics. 2009 Oct 8
+  highlight: 0
+  news2:
+  
+- title: "Word-based characterization of promoters involved in human DNA repair pathways"
+  image: 
+  description: 
+  authors: Lichtenberg J, Jacox E, Welch JD, Kurz K, Liang X, Yang MQ, Drews F, Ecker K, Lee SS, Elnitski L, Welch LR
+  link:
+    url: 
+    display:  BMC Genomics. 2009 Jul 7;10 Suppl 1
+  highlight: 0
+  news2:
