@@ -124,13 +124,13 @@
     display:  Cell. 2019 Jun 13
   highlight: 0
   news2:
-  
-  - title: "Slide-seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution"
+
+- title: "Slide-seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution"
   image: 
   description: 
-  authors: "Rodriques SG*, Stickels RR*, Goeva A Martin CA, Murray E, Vanderburg CR, Welch JD, Chen LM, Chen F+, Macosko EZ+"
+  authors: Rodriques SG*, Stickels RR*, Goeva A Martin CA, Murray E, Vanderburg CR, Welch JD, Chen LM, Chen F+, Macosko EZ+
   link:
     url: http://science.sciencemag.org/content/sci/363/6434/1463.full.pdf
-    display:  "Science 29 Mar 2019. Vol. 363, Issue 6434, pp. 1463-1467 DOI 10.1126/science.aaw1219"
+    display: "Science 29 Mar 2019. Vol. 363, Issue 6434, pp. 1463-1467 DOI 10.1126/science.aaw1219"
   highlight: 0
-  news2: "*Equal contribution +Co-corresponding"
+  news2: *Equal contribution +Co-corresponding
