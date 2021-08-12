@@ -202,7 +202,7 @@
     url: https://rnajournal.cshlp.org/content/21/7/1375.full.pdf+html
     display:  RNA 2015
   highlight: 0
-  news2: *Equal contribution
+  news2: "*Equal contribution"
   
 - title: "Pseudogenes Transcribed in Breast Invasive Carcinoma Show Subtype-Specific Expression and ceRNA Potential"
   image: 
