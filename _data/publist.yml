@@ -182,9 +182,9 @@
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4856971/pdf/gkv1525.pdf
     display:  Nucleic Acids Research 2016
   highlight: 0
-  news2: *Also accepted as a highlight at ISMB 2016
+  news2: Also accepted as a highlight at ISMB 2016
   
-- title: "A multi-protein occupancy map of the mRNP on the 3′ end of histone mRNAs"
+- title: "A multi-protein occupancy map of the mRNP on the 3 end of histone mRNAs"
   image: 
   description: 
   authors: Brooks L, Lyons SM, Mahoney JM, Welch JD, Liu Z, Marzluff WM, Whitfield ML
