@@ -1,11 +1,41 @@
-- title: "Community-wide hackathons to identify central themes in single-cell multi-omics. Genome"
+- title: "A multimodal cell census and atlas of the mammalian primary motor cortex"
+  image: flagship.png
+  description: The BRAIN Initiative Cell Census Network has constructed a multimodal cell census and atlas of the mammalian primary motor cortex in a landmark effort towards understanding brain cell-type diversity, neural circuit organization and brain function.
+  authors: BRAIN Initiative Cell Census Network (BICCN)
+  link:
+    url: https://www.nature.com/articles/s41586-021-03950-0
+    display:  Nature 598, 86–102 (2021)
+  highlight: 0
+  news2:
+
+- title: "Functional coordination of non-myocytes plays a key role in adult zebrafish heart regeneration"
+  image:
+  description:
+  authors: Ma H, Liu Z, Yang Y, Feng D, Dong Y, Garbutt T, Hu Z, Wang L, Luan C, Cooper C, Li Y, Welch JD\*, Qian L\*, Liu J\*
+  link:
+    url: https://www.embopress.org/doi/abs/10.15252/embr.202152901
+    display:  EMBO Rep (2021) e52901
+  highlight: 0
+  news2: \*Co-Senior Authors
+
+- title: "G-CSF secreted by mutant IDH1 glioma stem cells abolishes myeloid cell immunosuppression and enhances the efficacy of immunotherapy"
+  image:
+  description:
+  authors: Alghamri MS, Avvari RP, Thalla R, Kamran N, Zhang L, Ventosa M, Taher A, Faisal SM, Núñez FJ, Fabiani MBG, Haase S, Carney S, Orringer D, Hervey-Jumper S, Heth J, Patil PG, Al-Holou WN, Eddy K, Merajver S, Ulintz PJ, Welch JD, Gao C, Liu J, Núñez G, Hambardzumyan D, Lowenstein PR, Castro M
+  link:
+    url: https://www.science.org/doi/10.1126/sciadv.abh3243
+    display:  Science Advances Vol 7, Issue 40 (2021)
+  highlight: 0
+  news2:
+  
+- title: "Community-wide hackathons to identify central themes in single-cell multi-omics"
   image: Hthon.png
   description: This article articulates the needs for technologies, data, tools, and computational methods to model the multi-scale regulatory processes of biological systems in single-cell identified our three hackathon studies. It leverages these challenges to present a broad overview of the different types of analysis methods that can be currently applied to identify regulatory processes from multi-omics single-cell data sets and promising areas of future algorithmic development.
   authors: Lê Cao KA, Abadi AJ, Davis-Marcisak EF, Hsu L, Arora A, Coullomb A, Deshpande A, Feng Y, Jeganathan P, Loth M, Meng C, Mu W, Pancaldi V, Sankaran K, Singh A, Sodicoff JS, Stein-O’Brien GL, Subramanian A, Welch JD, You Y, Argelaguet R, Carey VJ, Dries R, Greene CS, Holmes S, Love MI, Ritchie ME, Yuan GC, Culhane AC, Fertig E
   link:
     url: https://doi.org/10.1186/s13059-021-02433-9
-    display:  Genome Biol 22, 220 (2021)
-  highlight: 1
+    display:  Genome Biology 22, 220 (2021)
+  highlight: 0
   news2:
 
 - title: "Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dentistry (in press)"
@@ -35,7 +65,7 @@
     display: Journal of Bone and Mineral Research 2021
   highlight: 1
 
-- title: "Sampling from disentangled representations of single-cell data using generative adversarial networks"
+- title: "MichiGAN: Sampling from disentangled representations of single-cell data using generative adversarial networks"
   image: 
   description: 
   authors: Yu H, Welch JD
@@ -88,12 +118,12 @@
 - title: "Jointly defining cell types from multiple single-cell datasets using LIGER"
   image: 
   description: 
-  authors: Liu J*, Gao C*, Sodicoff J, Kozareva V, Macosko EZ, Welch JD
+  authors: Liu J\*, Gao C\*, Sodicoff J, Kozareva V, Macosko EZ, Welch JD
   link:
     url: https://doi.org/10.1038/s41596-020-0391-8
     display:  Nature Protocols (2020)
   highlight: 0
-  news2:
+  news2: \*Equal contribution
   
 - title: "A Wnt-mediated transformation of the bone marrow stromal cell identity orchestrates skeletal regeneration"
   image: 
@@ -118,12 +148,12 @@
 - title: "Single-cell multi-omic integration compares and contrasts features of brain cell identity"
   image: 
   description: 
-  authors: Welch JD*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ*
+  authors: Welch JD\*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ\*
   link:
     url: https://www.cell.com/action/showPdf?pii=S0092-8674%2819%2930504-5
     display:  Cell. 2019 Jun 13
   highlight: 0
-  news2:
+  news2: \*Co-Senior Authors
 
 - title: "Slide seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution"
   image: 
