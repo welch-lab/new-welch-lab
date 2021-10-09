@@ -25,7 +25,7 @@
   link:
     url: https://www.embopress.org/doi/abs/10.15252/embr.202152901
     display: EMBO Rep (2021) e52901
-  highlight: 0
+  highlight: 1
   news2: \*Co-Senior Authors
 
 - title: "G-CSF secreted by mutant IDH1 glioma stem cells abolishes myeloid cell immunosuppression and enhances the efficacy of immunotherapy"
@@ -55,7 +55,7 @@
   link:
     url: https://www.frontiersin.org/articles/10.3389/fdmed.2021.679937/abstract
     display: Frontiers in Dentistry (in press)
-  highlight: 1
+  highlight: 0
 
 - title: "Nonnegative matrix factorization integrates single-cell multi-omic datasets with partially overlapping features"
   image: pub3.gif
@@ -64,7 +64,7 @@
   link:
     url: https://www.biorxiv.org/content/10.1101/2021.04.09.439160v1
     display:  bioRxiv
-  highlight: 1
+  highlight: 0
 
 - title: "Intercellular interactions of an adipogenic CXCL12‐expressing stromal cell subset in murine bone marrow"
   image: pub4.gif
@@ -73,7 +73,7 @@
   link:
     url: https://doi.org/10.1002/jbmr.4282
     display: Journal of Bone and Mineral Research 2021
-  highlight: 1
+  highlight: 0
 
 - title: "MichiGAN: Sampling from disentangled representations of single-cell data using generative adversarial networks"
   image: 
@@ -82,7 +82,7 @@
   link:
     url: https://doi.org/10.1186/s13059-021-02373-4
     display:  Genome Biology 22, 158 (2021)
-  highlight: 0
+  highlight: 1
   news2: Also presented at Learning Meaningful Representations of Life (LMRL 2020), Workshop at NeurIPS 2020.
 
 - title: "Real-Time, Direct Classification of Nanopore Signals Using SquiggleNet"
@@ -94,35 +94,15 @@
     display:  bioRxiv
   highlight: 0
   news2:
-
-- title: "A multimodal cell census and atlas of the mammalian primary motor cortex"
-  image: 
-  authors: BRAIN Initiative Cell Census Network (BICCN), Ricky S. Adkins, Andrew I. Aldridge, …, Joshua D. Welch, Owen White, Elora Williams, Fangming Xie, Peng Xie, Feng Xiong, X. William Yang, Anna Marie Yanny, Zizhen Yao, Lulu Yin, Yang Yu, Jing Yuan, Hongkui Zeng, Kun Zhang, Meng Zhang, Zhuzhu Zhang, Sujun Zhao, Xuan Zhao, Jingtian Zhou, Xiaowei Zhuang, Brian Zingg
-  description:
-  link:
-    url: https://doi.org/10.1101/2020.10.19.343129
-    display:  bioRxiv
-  highlight: 0
-  news2:
-
-- title: "An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types"
-  image: 
-  description: 
-  authors: Zizhen Yao, Hanqing Liu, Fangming Xie, Stephan Fischer, …, Bosiljka Tasic, Joshua D. Welch, Joseph R. Ecker, Evan Z Macosko, Bing Ren, BRAIN Initiative Cell Census Network (BICCN), Hongkui Zeng, Eran A. Mukamel
-  link:
-    url: https://doi.org/10.1101/2020.02.29.970558
-    display:  bioRxiv
-  highlight: 0
-  news2:
   
 - title: "Iterative Single-Cell Multi-Omic Integration Using Online Learning"
-  image: 
-  description: 
+  image: online-inmf.png
+  description: Integrating large single-cell gene expression, chromatin accessibility and DNA methylation datasets requires general and scalable computational approaches. Here we describe online integrative non-negative matrix factorization (iNMF), an algorithm for integrating large, diverse and continually arriving single-cell datasets. Our approach scales to arbitrarily large numbers of cells using fixed memory, iteratively incorporates new datasets as they are generated and allows many users to simultaneously analyze a single copy of a large dataset by streaming it over the internet. Iterative data addition can also be used to map new data to a reference dataset. Comparisons with previous methods indicate that the improvements in efficiency do not sacrifice dataset alignment and cluster preservation performance. We demonstrate the effectiveness of online iNMF by integrating more than 1 million cells on a standard laptop, integrating large single-cell RNA sequencing and spatial transcriptomic datasets, and iteratively constructing a single-cell multi-omic atlas of the mouse motor cortex.
   authors: Gao C, Liu J, Kriebel AR, Preissl S, Luo C, Castanon R, Sandoval J, Rivkin A, Nery JR, Behrens MM, Ecker JR, Ren B, Welch JD
   link:
     url: https://doi.org/10.1038/s41587-021-00867-x
-    display:  Nature Biotechnology (2021) - Also accepted for presentation at RECOMB 2020
-  highlight: 0
+    display:  Nature Biotechnology 39, 1000–1007 (2021)
+  highlight: 1
   news2:
   
 - title: "Jointly defining cell types from multiple single-cell datasets using LIGER"
