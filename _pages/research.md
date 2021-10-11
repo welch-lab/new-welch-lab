@@ -28,5 +28,4 @@ As part of the BRAIN Initiative Cell Census Network, we are integrating single-c
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/icm.png){: style="width: 250px; float: left; margin: 0px  10px"}
 Using the algorithms we have developed, we are investigating stem cell differentiation in mouse bone and human blood cells. We are also interested in somatic cell reprogramming, particularly direct cardiac reprogramming.
 
-![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/liger-cell.jpg){: style="width: 70%; float: center; margin: 0px"}
 
