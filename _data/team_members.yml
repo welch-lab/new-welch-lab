@@ -40,25 +40,29 @@
   photo: YichenGu_Resized.png
   info: CSE Ph.D. Candidate (joint with David Blaauw)
   email: 
-  number_educ: 0
+  number_educ: 1
+  education1: B.S. in Computer Science, University of Illinois - Urbana
 
 - name: April Kriebel
   photo: april_kriebel.png
   info: DCMB Ph.D. Candidate
   email: 
-  number_educ: 0
+  number_educ: 1
+  education1: B.S. in Mathematics, Spring Arbor University
 
 - name: Hojae Lee
   photo: hojae-lee.jpg
   info: ECE Ph.D. Candidate
   email: 
-  number_educ: 0
+  number_educ: 1
+  education1: B.S. in Biomedical Engineering, University of California - Berkeley
 
 - name: Chen Li
   photo: Chen-Li.jpg
   info: DCMB Ph.D. Candidate
   email: 
-  number_educ: 0 
+  number_educ: 1
+  education1: B.S. in Biomedical Engineering, University of California - San Diego
   
 - name: Jialin Liu
   photo: Jialin-Liu.jpeg
