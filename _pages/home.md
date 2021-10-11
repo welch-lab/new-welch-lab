@@ -52,6 +52,6 @@ Our research aims to address fundamental problems in both biomedical research an
 
 
 
-Most recently, I have focused on developing open-source software for the processing, analysis, and modeling of single-cell sequencing data. Key contributions in this area include SingleSplice, the first computational method for single-cell splicing analysis; SLICER, an algorithm for inferring developmental trajectories; and LIGER, a general approach for integrating single-cell transcriptomic, epigenomic and spatial transcriptomic data. I have applied these methods in collaboration with biological scientists to study stem cell differentiation, somatic cell reprogramming, and the brain.
+Most recently, I have focused on developing open-source software for the processing, analysis, and modeling of single-cell sequencing data. Key contributions in this area include SLICER, an algorithm for inferring developmental trajectories; LIGER, a general approach for integrating single-cell transcriptomic, epigenomic and spatial transcriptomic data; and online iNMF, a scalable and iterative algorithm for single-cell data integration. I have applied these methods in collaboration with biological scientists to study stem cell differentiation, somatic cell reprogramming, and the brain.
 
 **The Welch Lab is seeking to hire a postdoctoral researcher! ** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
