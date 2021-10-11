@@ -136,13 +136,13 @@
   news2:
   
 - title: "Single-cell multi-omic integration compares and contrasts features of brain cell identity"
-  image: 
+  image: liger-cell.jpg
   description: 
   authors: Welch JD\*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ\*
   link:
-    url: https://www.cell.com/action/showPdf?pii=S0092-8674%2819%2930504-5
-    display:  Cell. 2019 Jun 13
-  highlight: 0
+    url: https://www.sciencedirect.com/science/article/pii/S0092867419305045
+    display:  Cell. Volume 177, Issue 7, 13 June 2019, Pages 1873-1887.e17
+  highlight: 1
   news2: \*Co-Senior Authors
 
 - title: "Slide seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution"
@@ -154,6 +154,16 @@
     display: "Science 29 Mar 2019: Vol. 363, Issue 6434, pp. 1463-1467"
   highlight: 0
   news2: 
+  
+- title: "Single-cell transcriptomics reconstructs fate conversion from fibroblast to cardiomyocyte"
+  image: icm.png
+  description: Despite recent success in directly reprogramming fibroblasts into various cell types, the precise changes that occur as fibroblasts progressively convert to the target cell fates remain unclear. The inherent heterogeneity and asynchronous nature of the reprogramming process renders it difficult to study this process using bulk genomic techniques. Here we used single-cell RNA sequencing to overcome this limitation and analysed global transcriptome changes at early stages during the reprogramming of mouse fibroblasts into induced cardiomyocytes (iCMs)1,2,3,4. Using unsupervised dimensionality reduction and clustering algorithms, we identified molecularly distinct subpopulations of cells during reprogramming. We also constructed routes of iCM formation, and delineated the relationship between cell proliferation and iCM induction. Further analysis of global gene expression changes during reprogramming revealed unexpected downregulation of factors involved in mRNA processing and splicing. In summary, our single-cell transcriptomics approaches enabled us to reconstruct the reprogramming trajectory and to uncover intermediate cell populations, gene pathways and regulators involved in iCM induction.
+  authors: Liu Z\*, Wang L\*, Welch JD\*, Ma H, Zhou Y, Vaseghi HR, Yu S, Wall JB, Alimohamadi S, Zheng M, Yin C, Shen W, Prins JF, Liu J, Qian L
+  link:
+    url: https://www.nature.com/articles/nature24454
+    display: "Nature (02 November 2017). 551, 100–104 doi:10.1038/nature24454"
+  highlight: 1
+  news2: \*Equal contribution
 
 - title: "MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics"
   description: 
