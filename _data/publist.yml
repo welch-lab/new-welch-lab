@@ -20,7 +20,7 @@
 
 - title: "Functional coordination of non-myocytes plays a key role in adult zebrafish heart regeneration"
   image: fish.jpg
-  description: Using the LIGER algorithm, we assemble an atlas of cell states from 61,977 individual non-CM scRNA-seq profiles isolated at multiple time points during regeneration. This analysis reveals extensive non-CM cell diversity, including multiple macrophage (MC), fibroblast (FB), and endothelial cell (EC) subpopulations with unique spatiotemporal distributions, and suggests an important role for MC in inducing the activated FB and EC subpopulations. Indeed, pharmacological perturbation of MC function compromises the induction of the unique FB and EC subpopulations. Furthermore, we developed computational algorithm Topologizer to map the topological relationships and dynamic transitions between functional states. We uncover dynamic transitions between MC functional states and identify factors involved in mRNA processing and transcriptional regulation associated with the transition. Together, our single-cell transcriptomic analysis of non-CMs during cardiac regeneration provides a blueprint for interrogating the molecular and cellular basis of this process.
+  description: Using the LIGER algorithm, we assemble an atlas of cell states from 61,977 individual non-CM scRNA-seq profiles isolated at multiple time points during regeneration. This analysis reveals extensive non-CM cell diversity, including multiple macrophage (MC), fibroblast (FB), and endothelial cell (EC) subpopulations with unique spatiotemporal distributions, and suggests an important role for MC in inducing the activated FB and EC subpopulations. Furthermore, we developed computational algorithm Topologizer to map the topological relationships and dynamic transitions between functional states. Together, our single-cell transcriptomic analysis of non-CMs during cardiac regeneration provides a blueprint for interrogating the molecular and cellular basis of this process.
   authors: Ma H, Liu Z, Yang Y, Feng D, Dong Y, Garbutt T, Hu Z, Wang L, Luan C, Cooper C, Li Y, Welch JD\*, Qian L\*, Liu J\*
   link:
     url: https://www.embopress.org/doi/abs/10.15252/embr.202152901
@@ -137,7 +137,7 @@
   
 - title: "Single-cell multi-omic integration compares and contrasts features of brain cell identity"
   image: liger-cell.jpg
-  description: 
+  description: To flexibly model single-cell datasets, we developed LIGER, an algorithm that delineates shared and dataset-specific features of cell identity. We applied it to four diverse and challenging analyses of human and mouse brain cells. Integrative analyses using LIGER promise to accelerate investigations of cell-type definition, gene regulation, and disease states.
   authors: Welch JD\*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ\*
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0092867419305045
