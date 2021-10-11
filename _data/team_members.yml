@@ -56,22 +56,22 @@
 
 - name: Chen Li
   photo: Chen-Li.jpg
-  info: DCMB Ph.D. Student
+  info: DCMB Ph.D. Candidate
   email: 
   number_educ: 0 
-
-- name: Joshua Sodicoff
-  photo: Joshua-Sodicoff.jpg
-  info: Data Science B.S. Student
-  email:
-  number_educ: 0
-
+  
 - name: Lu Lu
   photo: LuLu-Wang.jpg
   info: Bioinformatician
   email:
   number_educ: 1
   education1: M.S. in Bioinformatics, University of Michigan
+
+- name: Joshua Sodicoff
+  photo: Joshua-Sodicoff.jpg
+  info: Data Science B.S. Student
+  email:
+  number_educ: 0
   
 - name: Hengshi Yu
   photo: hengshi_yu.jpg
