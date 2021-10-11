@@ -32,7 +32,7 @@
   photo: chao_gao_new.jpg
   info: DCMB Ph.D. Candidate
   email:
-  number_educ: 1
+  number_educ: 2
   education1: M.S. in Biostatistics, University of Michigan
   education2: M.S. in Pharmacology, University of Michigan
 
@@ -59,6 +59,13 @@
   info: DCMB Ph.D. Candidate
   email: 
   number_educ: 0 
+  
+- name: Jialin Liu
+  photo: Jialin-Liu.jpeg
+  info: DCMB Ph.D. Candidate
+  email: 
+  number_educ: 1 
+  education1: M.S. in Bioinformatics, University of Michigan
   
 - name: Lu Lu
   photo: LuLu-Wang.jpg
