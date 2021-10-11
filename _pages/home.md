@@ -33,7 +33,7 @@ Our research aims to address fundamental problems in both biomedical research an
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/atlas.png" alt="Nature 2021" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fish.png" alt="EMBO Reports 2021" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fish.jpg" alt="EMBO Reports 2021" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icm.png" alt="Nature 2017" />
