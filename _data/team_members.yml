@@ -9,27 +9,32 @@
   
 - name: Maryam Bagherian, Ph.D.
   photo: MaryamBagherian.png
-  info: Postdoctoral Researcher
+  info: Postdoctoral Researcher, MIDAS Fellow
   email: 
-  number_educ: 0
+  number_educ: 1
+  education1: Ph.D. in Mathematics, University of South Florida
 
 - name: Angel Ka Yan Chu
   photo: angel_chu.jpg
-  info: DCMB MS Student
+  info: Bioinformatician
   email: 
-  number_educ: 0
+  number_educ: 1
+  education1: M.S. in Bioinformatics, University of Michigan
 
 - name: Shreepriya Das, Ph.D.
   photo: shree.jpg
   info: Research Scientist
   email: 
-  number_educ: 0
+  number_educ: 1
+  education1: Ph.D. in Computer Science, University of Texas at Austin
 
 - name: Chao Gao
   photo: chao_gao_new.jpg
   info: DCMB Ph.D. Candidate
   email:
-  number_educ: 0
+  number_educ: 1
+  education1: M.S. in Biostatistics, University of Michigan
+  education2: M.S. in Pharmacology, University of Michigan
 
 - name: Yichen Gu
   photo: YichenGu_Resized.png
@@ -57,18 +62,20 @@
 
 - name: Joshua Sodicoff
   photo: Joshua-Sodicoff.jpg
-  info: Data Science BS Student
+  info: Data Science B.S. Student
   email:
   number_educ: 0
 
-- name: Lu Lui
+- name: Lu Lu
   photo: LuLu-Wang.jpg
-  info: DCMB MS Student
+  info: Bioinformatician
   email:
-  number_educ: 0
+  number_educ: 1
+  education1: M.S. in Bioinformatics, University of Michigan
   
 - name: Hengshi Yu
   photo: hengshi_yu.jpg
   info: Biostatistics Ph.D. Candidate
   email: 
-  number_educ: 0
+  number_educ: 1
+  education1: M.S. in Biostatistics, Duke University
