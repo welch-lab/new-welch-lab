@@ -12,7 +12,7 @@ permalink: /res/
 ## Resarch highlights
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.reslist %}
+{% for publi in site.data.res %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
