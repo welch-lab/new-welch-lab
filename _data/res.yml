@@ -17,23 +17,27 @@
     display: 
   highlight: 1
   news2:
-
-- title: "Functional coordination of non-myocytes plays a key role in adult zebrafish heart regeneration"
-  image: fish.jpg
-  description: Using the LIGER algorithm, we assemble an atlas of cell states from 61,977 individual non-CM scRNA-seq profiles isolated at multiple time points during regeneration. This analysis reveals extensive non-CM cell diversity, including multiple macrophage (MC), fibroblast (FB), and endothelial cell (EC) subpopulations with unique spatiotemporal distributions, and suggests an important role for MC in inducing the activated FB and EC subpopulations. Furthermore, we developed computational algorithm Topologizer to map the topological relationships and dynamic transitions between functional states. Together, our single-cell transcriptomic analysis of non-CMs during cardiac regeneration provides a blueprint for interrogating the molecular and cellular basis of this process.
-  authors: Ma H, Liu Z, Yang Y, Feng D, Dong Y, Garbutt T, Hu Z, Wang L, Luan C, Cooper C, Li Y, Welch JD\*, Qian L\*, Liu J\*
+  
+  
+- title: Applications in Neuroscience
+  image: atlas.png
+  description: As part of the BRAIN Initiative Cell Census Network, we are integrating single-cell transcriptomic, epigenomic, and spatial datasets to characterize the cell types in the mouse brain.
+  authors: 
   link:
-    url: https://www.embopress.org/doi/abs/10.15252/embr.202152901
-    display: EMBO Rep (2021) e52901
+    url: 
+    display: 
   highlight: 1
-  news2: \*Co-Senior Authors
-
-- title: "G-CSF secreted by mutant IDH1 glioma stem cells abolishes myeloid cell immunosuppression and enhances the efficacy of immunotherapy"
-  image:
-  description:
-  authors: Alghamri MS, Avvari RP, Thalla R, Kamran N, Zhang L, Ventosa M, Taher A, Faisal SM, Núñez FJ, Fabiani MBG, Haase S, Carney S, Orringer D, Hervey-Jumper S, Heth J, Patil PG, Al-Holou WN, Eddy K, Merajver S, Ulintz PJ, Welch JD, Gao C, Liu J, Núñez G, Hambardzumyan D, Lowenstein PR, Castro M
-  link:
-    url: https://www.science.org/doi/10.1126/sciadv.abh3243
-    display:  Science Advances Vol 7, Issue 40 (2021)
-  highlight: 0
   news2:
+  
+  
+- title: Applications in Stem Cell Differentiation and Reprogramming
+  image: research2.png
+  description: Using the algorithms we have developed, we are investigating stem cell differentiation in mouse bone and human blood cells. We are also interested in somatic cell reprogramming, particularly direct cardiac reprogramming.
+  authors: 
+  link:
+    url: 
+    display: 
+  highlight: 1
+  news2:
+
+
