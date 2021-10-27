@@ -3,7 +3,7 @@ title: "Welch Lab - Research"
 layout: gridlay
 excerpt: "Welch Lab -- Research."
 sitemap: false
-permalink: /res/
+permalink: /research/
 ---
 
 
