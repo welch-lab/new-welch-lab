@@ -1,20 +1,20 @@
-- title: "A multimodal cell census and atlas of the mammalian primary motor cortex"
-  image: flagship.png
-  description: The BRAIN Initiative Cell Census Network has constructed a multimodal cell census and atlas of the mammalian primary motor cortex in a landmark effort towards understanding brain cell-type diversity, neural circuit organization and brain function.
-  authors: BRAIN Initiative Cell Census Network (BICCN)
+- title: Single-Cell Data Integration
+  image: online-inmf.png
+  description: In recent papers published in Cell and Nature Biotechnology, we developed LIGER and online iNMF. These approaches allow integration of single-cell transcriptomic, epigenomic and spatial transcriptomic datasets from different single cells.
+  authors: 
   link:
-    url: https://www.nature.com/articles/s41586-021-03950-0
-    display: Nature 598, 86–102 (2021)
+    url: 
+    display: 
   highlight: 1
   news2:
 
-- title: "A transcriptomic and epigenomic cell atlas of the mouse primary motor cortex"
-  image: atlas.png
-  description: The authors describe an integrated atlas of the diverse cell types in the mouse primary motor cortex.
-  authors: Zizhen Yao, Hanqing Liu, Fangming Xie, Stephan Fischer, ..., Bosiljka Tasic, Joshua D. Welch, Joseph R. Ecker, Evan Z Macosko, Bing Ren, BRAIN Initiative Cell Census Network (BICCN), Hongkui Zeng, Eran A. Mukamel.
+- title: Single-Cell Trajectory Inference
+  image: research2.png
+  description: We developed SLICER and MATCHER, approaches for inferring sequential transcriptomic and epigenomic changes in differentiating cells.
+  authors: 
   link:
-    url: https://www.nature.com/articles/s41586-021-03500-8
-    display: Nature 598, 103–110 (2021)
+    url: 
+    display: 
   highlight: 1
   news2:
 
