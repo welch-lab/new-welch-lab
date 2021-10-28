@@ -106,4 +106,4 @@ permalink: /team/
 {% endif %}
 
 ## Administrative Support
-<a href="https://medicine.umich.edu/dept/dcmb/faculty/staff">Department of Computationalal Medicine and Bioinformatics admin staff</a> are helping us (and other groups) with administration.
+<a href="https://medicine.umich.edu/dept/dcmb/faculty/staff">Department of Computational Medicine and Bioinformatics admin staff</a> are helping us (and other groups) with administration.
