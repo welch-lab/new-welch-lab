@@ -1,3 +1,13 @@
+- title: "SquiggleNet: Real-Time, Direct Classification of Nanopore Signals"
+  image: 
+  authors: Bao Y, Welch JD
+  description: Also presented at Machine Learning in Computational Biology (MLCB 2020).
+  link:
+    url: https://rdcu.be/cAj1A
+    display:  Genome Biology 22:298 (2021)
+  highlight: 0
+  news2:
+
 - title: "A multimodal cell census and atlas of the mammalian primary motor cortex"
   image: flagship.png
   description: The BRAIN Initiative Cell Census Network has constructed a multimodal cell census and atlas of the mammalian primary motor cortex in a landmark effort towards understanding brain cell-type diversity, neural circuit organization and brain function.
@@ -84,16 +94,6 @@
     display:  Genome Biology 22, 158 (2021)
   highlight: 1
   news2: Also presented at Learning Meaningful Representations of Life (LMRL 2020), Workshop at NeurIPS 2020.
-
-- title: "Real-Time, Direct Classification of Nanopore Signals Using SquiggleNet"
-  image: 
-  authors: Bao Y, Welch JD
-  description: Also presented at Machine Learning in Computational Biology (MLCB 2020). https://www.biorxiv.org/content/10.1101/2021.01.15.426907v1
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2021.01.15.426907v1
-    display:  bioRxiv
-  highlight: 0
-  news2:
   
 - title: "Iterative Single-Cell Multi-Omic Integration Using Online Learning"
   image: online-inmf.png
