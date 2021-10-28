@@ -10,9 +10,6 @@ permalink: /team/
 
  **We are currently looking for a Postdoctoral Researcher to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-Jump to [staff](#lab), [alumni](#alumni), [administrative support](#administrative-support).
-
 ## Lab 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
