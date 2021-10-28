@@ -4,7 +4,7 @@
   description: Also presented at Machine Learning in Computational Biology (MLCB 2020).
   link:
     url: https://rdcu.be/cAj1A
-    display:  Genome Biology 22:298 (2021)
+    display:  Genome Biology 22\:298 (2021)
   highlight: 0
   news2:
 
@@ -58,13 +58,13 @@
   highlight: 0
   news2:
 
-- title: "Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dentistry (in press)"
+- title: "Single-cell transcriptomic analysis reveals developmental relationships and specific markers of mouse periodontium cellular subsets. Frontiers in Dental Medicine"
   image: sct-img.jpg
   description: Collectively, our findings provide insights into the lineage hierarchy and intercellular interactions of cells in the periodontium at a single-cell level, aiding to understand cellular and molecular basis of periodontal tissue formation.
   authors: Nagata M, Ka Yan Chu A, Ono N, Welch JD, Ono W
   link:
-    url: https://www.frontiersin.org/articles/10.3389/fdmed.2021.679937/abstract
-    display: Frontiers in Dentistry (in press)
+    url: https://www.frontiersin.org/articles/10.3389/fdmed.2021.679937/full
+    display: Frontiers in Dental Medicine 2\:56 (2021)
   highlight: 0
 
 - title: "Nonnegative matrix factorization integrates single-cell multi-omic datasets with partially overlapping features"
