@@ -48,6 +48,16 @@
   highlight: 0
   news2:
   
+- title: "Transcription factor FOXF1 identifies compartmentally distinct mesenchymal cells with a role in lung allograft fibrogenesis"
+  image:
+  description:
+  authors: Braeuer RR, Walker NM, Misumi K, Mazzoni-Putman S, Aoki Y, Liao R, Vittal R, Kleer GG, Wheeler DS, Sexton JZ, Farver CF, Welch JD, Lama VN
+  link:
+    url: https://www.jci.org/articles/view/147343
+    display: Journal of Clinical Investigation. doi:10.1172/JCI147343
+  highlight: 0
+  news2:
+  
 - title: "Community-wide hackathons to identify central themes in single-cell multi-omics"
   image: Hthon.png
   description: This article articulates the needs for technologies, data, tools, and computational methods to model the multi-scale regulatory processes of biological systems in single-cell identified our three hackathon studies. It leverages these challenges to present a broad overview of the different types of analysis methods that can be currently applied to identify regulatory processes from multi-omics single-cell data sets and promising areas of future algorithmic development.
