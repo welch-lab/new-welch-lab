@@ -73,7 +73,7 @@
   
 - name: Lu Lu
   photo: LuLu-Wang.jpg
-  info: Bioinformatician
+  info: DCMB Ph.D. Student
   email:
   number_educ: 1
   education1: M.S. in Bioinformatics, University of Michigan
@@ -81,6 +81,12 @@
 - name: Joshua Sodicoff
   photo: Joshua-Sodicoff.jpg
   info: Data Science B.S. Student
+  email:
+  number_educ: 0
+  
+- name: Yuxuan Song
+  photo: YuxuanSong.png
+  info: Bioinformatics M.S. Student
   email:
   number_educ: 0
   
