@@ -42,6 +42,12 @@
   email: 
   number_educ: 1
   education1: B.S. in Electrical and Computer Engineering, University of Illinois - Urbana
+  
+- name: Albert Hung
+  photo: AlbertHung-resized.png
+  info: Computer Science and Engineering B.S. student
+  email: 
+  number_educ: 0
 
 - name: April Kriebel
   photo: april_kriebel.png
