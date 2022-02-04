@@ -83,6 +83,12 @@
   email:
   number_educ: 1
   education1: M.S. in Bioinformatics, University of Michigan
+  
+- name: Zaid Siddiqui
+  photo: ZaidSiddiqui-resized.jpg
+  info: EECS B.S. Student
+  email:
+  number_educ: 0
 
 - name: Joshua Sodicoff
   photo: Joshua-Sodicoff.jpg
