@@ -57,7 +57,7 @@
 
 - title: "Functional coordination of non-myocytes plays a key role in adult zebrafish heart regeneration"
   image: fish.jpg
-  description: Using the LIGER algorithm, we assemble an atlas of cell states from 61,977 individual non-CM scRNA-seq profiles isolated at multiple time points during regeneration. This analysis reveals extensive non-CM cell diversity, including multiple macrophage (MC), fibroblast (FB), and endothelial cell (EC) subpopulations with unique spatiotemporal distributions, and suggests an important role for MC in inducing the activated FB and EC subpopulations. Furthermore, we developed computational algorithm Topologizer to map the topological relationships and dynamic transitions between functional states. Together, our single-cell transcriptomic analysis of non-CMs during cardiac regeneration provides a blueprint for interrogating the molecular and cellular basis of this process.
+  description: Using LIGER and Topologizer, we assemble an atlas of cell states from 61,977 individual non-CM scRNA-seq profiles isolated at multiple time points during regeneration. This analysis reveals extensive non-CM cell diversity and suggests an important role for MC in inducing the activated FB and EC subpopulations. Furthermore, map the topological relationships and dynamic transitions between functional states. Our analysis provides a blueprint for interrogating the molecular and cellular basis of cardiac regeneration.
   authors: Ma H, Liu Z, Yang Y, Feng D, Dong Y, Garbutt T, Hu Z, Wang L, Luan C, Cooper C, Li Y, Welch JD\*, Qian L\*, Liu J\*
   link:
     url: https://www.embopress.org/doi/abs/10.15252/embr.202152901
@@ -115,7 +115,7 @@
 
 - title: "MichiGAN: Sampling from disentangled representations of single-cell data using generative adversarial networks"
   image: michigan.png
-  description: Deep generative models such as variational autoencoders (VAEs) and generative adversarial networks (GANs) generate and manipulate high-dimensional images. We systematically assess the complementary strengths and weaknesses of these models on single-cell gene expression data. We also develop MichiGAN, a novel neural network that combines the strengths of VAEs and GANs to sample from disentangled representations without sacrificing data generation quality. We learn disentangled representations of three large single-cell RNA-seq datasets and use MichiGAN to sample from these representations. MichiGAN allows us to manipulate semantically distinct aspects of cellular identity and predict single-cell gene expression response to drug treatment.
+  description: We develop MichiGAN, a novel neural network that combines the strengths of VAEs and GANs to sample from disentangled representations without sacrificing data generation quality. MichiGAN allows us to manipulate semantically distinct aspects of cellular identity and predict single-cell gene expression response to drug treatment.
   authors: Yu H, Welch JD
   link:
     url: https://doi.org/10.1186/s13059-021-02373-4
