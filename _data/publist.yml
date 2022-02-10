@@ -1,6 +1,6 @@
 - title: "UINMF performs mosaic integration of single-cell multi-omic datasets using nonnegative matrix factorization"
-  image: pub3.gif
-  description: Single-cell genomic technologies provide an unprecedented opportunity to define molecular cell types in a data-driven fashion, but present unique data integration challenges. Integration analyses often involve datasets with partially overlapping features, including both shared features that occur in all datasets and features exclusive to a single experiment. Previous computational integration approaches require that the input matrices share the same number of either genes or cells, and thus can use only shared features. To address this limitation, we derive a novel nonnegative matrix factorization algorithm for integrating single-cell datasets containing both shared and unshared features.
+  image: uinmf.png
+  description: Integration analyses often involve datasets with partially overlapping features, including both shared features that occur in all datasets and features exclusive to a single experiment. To address this limitation, we derive a novel nonnegative matrix factorization algorithm for integrating single-cell datasets containing both shared and unshared features.
   authors: Kriebel AR, Welch JD
   link:
     url: https://rdcu.be/cGFpq
