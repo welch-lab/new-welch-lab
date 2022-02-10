@@ -38,6 +38,9 @@ Our research aims to address fundamental problems in both biomedical research an
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icm.png" alt="Nature 2017" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/uinmf.png" alt="Nature Comms 2022" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
