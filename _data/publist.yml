@@ -1,3 +1,12 @@
+- title: "UINMF performs mosaic integration of single-cell multi-omic datasets using nonnegative matrix factorization"
+  image: pub3.gif
+  description: Single-cell genomic technologies provide an unprecedented opportunity to define molecular cell types in a data-driven fashion, but present unique data integration challenges. Integration analyses often involve datasets with partially overlapping features, including both shared features that occur in all datasets and features exclusive to a single experiment. Previous computational integration approaches require that the input matrices share the same number of either genes or cells, and thus can use only shared features. To address this limitation, we derive a novel nonnegative matrix factorization algorithm for integrating single-cell datasets containing both shared and unshared features.
+  authors: Kriebel AR, Welch JD
+  link:
+    url: https://rdcu.be/cGFpq
+    display:  Nature Communications 13:780 (2022)
+  highlight: 1
+
 - title: "PyLiger: Scalable single-cell multi-omic data integration in Python"
   image: 
   authors: Lu L, Welch JD
@@ -93,15 +102,6 @@
   link:
     url: https://www.frontiersin.org/articles/10.3389/fdmed.2021.679937/full
     display: Frontiers in Dental Medicine 2\:56 (2021)
-  highlight: 0
-
-- title: "Nonnegative matrix factorization integrates single-cell multi-omic datasets with partially overlapping features"
-  image: pub3.gif
-  description: Single-cell genomic technologies provide an unprecedented opportunity to define molecular cell types in a data-driven fashion, but present unique data integration challenges. Integration analyses often involve datasets with partially overlapping features, including both shared features that occur in all datasets and features exclusive to a single experiment. Previous computational integration approaches require that the input matrices share the same number of either genes or cells, and thus can use only shared features. To address this limitation, we derive a novel nonnegative matrix factorization algorithm for integrating single-cell datasets containing both shared and unshared features.
-  authors: Kriebel AR, Welch JD
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2021.04.09.439160v1
-    display:  bioRxiv
   highlight: 0
 
 - title: "Intercellular interactions of an adipogenic CXCL12‐expressing stromal cell subset in murine bone marrow"
