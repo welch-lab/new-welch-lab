@@ -34,3 +34,10 @@ permalink: /software
 **SquiggleNet (Real-Time, Direct Classification of Nanopore Signals)**
 
 [https://github.com/welch-lab/SquiggleNet](https://github.com/welch-lab/SquiggleNet)
+
+**PyLiger: Scalable single-cell multi-omic data integration in Python**
+
+[https://github.com/welch-lab/pyliger](https://github.com/welch-lab/pyliger)
+
+**MultiVelo: Single-cell multi-omic velocity inference**
+[https://github.com/welch-lab/MultiVelo](https://github.com/welch-lab/MultiVelo)
