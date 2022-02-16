@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are currently looking for a Postdoctoral Researcher to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **The Welch Lab has openings for multiple positions, including Postdoctoral Fellow, PhD Student, Bioinformatician, and Software Engineer!** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## Lab 
 {% assign number_printed = 0 %}
