@@ -19,7 +19,7 @@ A unique benefit of this position is the rich set of collaborative opportunities
 Desired Qualifications:
 The ideal candidate will have a PhD in computational biology, bioinformatics, computer science, statistics, mathematics, physics, or related field, and familiarity with high-throughput sequencing data. Life scientists with significant computational expertise should also apply. Additional desirable qualities include the ability to effectively work both independently and in a team, good communication skills, and a love for both computational method development and biological discovery.
 
-Interested applicants should submit a brief statement of interest, CV, and contact information for three references.  For questions regarding the position, please contact Dr. Joshua Welch at welchjd@umich.edu.
+Interested applicants should submit a brief statement of interest, CV, and contact information for three references.  For questions regarding the position, please contact Dr. Joshua Welch at [welchjd@umich.edu](mailto:welchjd@umich.edu). Click here to apply: [https://careers.umich.edu/job_detail/212162/research-fellow](https://careers.umich.edu/job_detail/212162/research-fellow)
 
 **Bioinformatician**
 
