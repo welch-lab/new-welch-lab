@@ -1,3 +1,11 @@
+- title: "Variational Mixtures of ODEs for Inferring Cellular Gene Expression Dynamics"
+  image: 
+  authors: Gu Y, Blaauw D, Welch JD
+  link:
+    url: https://icml.cc/
+    display:  ICML 2022
+  highlight: 0
+
 - title: "UINMF performs mosaic integration of single-cell multi-omic datasets using nonnegative matrix factorization"
   image: uinmf.png
   description: Integration analyses often involve datasets with partially overlapping features, including both shared features that occur in all datasets and features exclusive to a single experiment. To address this limitation, we derive a novel nonnegative matrix factorization algorithm for integrating single-cell datasets containing both shared and unshared features.
