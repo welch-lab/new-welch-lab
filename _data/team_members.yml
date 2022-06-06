@@ -102,6 +102,12 @@
   email:
   number_educ: 0
   
+- name: Jane Wiesner
+  photo: Jane.png
+  info: Administrative Assistant
+  email:
+  number_educ: 0
+  
 - name: Hengshi Yu
   photo: hengshi_yu.jpg
   info: Biostatistics Ph.D. Candidate
