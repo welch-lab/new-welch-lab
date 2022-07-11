@@ -1,11 +1,17 @@
-
-
 - title: "Bayesian inference of RNA velocity from multi-lineage single-cell data"
   image: 
   authors: Gu Y, Blaauw D, Welch JD
   link:
     url: https://www.biorxiv.org/content/10.1101/2022.07.08.499381v1
     display: bioRxiv 2022
+  highlight: 0
+
+- title: "Variational mixtures of ODEs for inferring cellular gene expression dynamics"
+  image: 
+  authors: Gu Y, Blaauw D, Welch JD
+  link:
+    url: https://icml.cc/virtual/2022/spotlight/16630
+    display: ICML 2022 (22% acceptance rate)
   highlight: 0
 
 - title: "UINMF performs mosaic integration of single-cell multi-omic datasets using nonnegative matrix factorization"
