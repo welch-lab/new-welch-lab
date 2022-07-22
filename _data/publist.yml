@@ -1,3 +1,11 @@
+- title: "PerturbNet predicts single-cell responses to unseen chemical and genetic perturbations"
+  image: 
+  authors: Yu H, Welch JD
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2022.07.20.500854v1
+    display: bioRxiv 2022
+  highlight: 0
+
 - title: "Bayesian inference of RNA velocity from multi-lineage single-cell data"
   image: 
   authors: Gu Y, Blaauw D, Welch JD
