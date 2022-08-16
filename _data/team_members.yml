@@ -84,6 +84,13 @@
   number_educ: 1
   education1: B.S. in Chemistry, Xiamen University
   
+- name: Andrew Robbins
+  photo: andrew_robbins.jpg
+  info: Bioinformatician
+  email:
+  number_educ: 1
+  education1: B.S. in Biochemistry, Case Western Reserve University
+  
 - name: Zaid Siddiqui
   photo: ZaidSiddiqui-resized.jpg
   info: Computer Science and Engineering B.S. Student
