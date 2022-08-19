@@ -99,9 +99,10 @@
 
 - name: Joshua Sodicoff
   photo: Joshua-Sodicoff.jpg
-  info: Data Science B.S. Student
+  info: Research Lab Specialist
   email:
-  number_educ: 0
+  number_educ: 1
+  education1: B.S. in Biomedical Engineering, University of Michigan
   
 - name: Yuxuan Song
   photo: YuxuanSong.png
