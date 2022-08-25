@@ -63,6 +63,12 @@
   number_educ: 1
   education1: B.S. in Bioinformatics, University of California - San Diego
   
+- name: Jingyi Liu
+  photo: Jingyi-Liu.jpg
+  email:
+  info: Neuroscience B.S. Student
+  number_educ: 0
+  
 - name: Jialin Liu
   photo: Jialin-Liu.jpeg
   info: DCMB Ph.D. Candidate
