@@ -1,3 +1,11 @@
+- title: "A bilevel optimization method for tensor recovery under metric learning constraints"
+  image: 
+  authors: Bagherian M, Tarzanagh DA, Dinov I, Welch JD
+  link:
+    url: https://arxiv.org/abs/2209.00545
+    display: arXiv 2022
+  highlight: 0
+
 - title: "PerturbNet predicts single-cell responses to unseen chemical and genetic perturbations"
   image: 
   authors: Yu H, Welch JD
