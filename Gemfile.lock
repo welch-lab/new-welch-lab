@@ -9,6 +9,8 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
+    autoprefixer-rails (9.8.6.5)
+      execjs
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -24,7 +26,7 @@ GEM
     ethon (0.15.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
-    execjs (2.8.1)
+    execjs (2.7.0)
     faraday (2.5.2)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
@@ -102,6 +104,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-autoprefixer (1.0.2)
+      autoprefixer-rails (~> 9.3)
     jekyll-avatar (0.7.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-coffeescript (1.1.1)
@@ -256,7 +260,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  execjs (= 2.7.0)
   github-pages
+  jekyll-autoprefixer (~> 1.0)
   webrick (~> 1.7)
 
 BUNDLED WITH

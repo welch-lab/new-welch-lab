@@ -42,3 +42,6 @@ kramdown:
 
 
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-autoprefixer
