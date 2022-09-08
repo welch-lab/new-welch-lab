@@ -255,8 +255,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages (~> 227)
-  jekyll (>= 3.6.3)
+  github-pages
 
 BUNDLED WITH
    2.3.7
