@@ -24,9 +24,9 @@ permalink: /research/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="card">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-fluid w-33 float-left d-block" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>

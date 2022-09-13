@@ -1,6 +1,13 @@
 ---
 ---
 
+$sizes: (25: 25%,
+			33: 33%,
+			50: 50%,
+			75: 75%,
+			100: 100%,
+			auto: auto);
+
 @import "bootstrap/bootstrap";
 
 img { margin-bottom: 24px;
