@@ -20,34 +20,34 @@ Our research aims to address fundamental problems in both biomedical research an
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/liger-cell.jpg" alt="LIGER Cell 2019" />
+        <div class="carousel-item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/liger-cell.jpg" class="d-block w-100" alt="LIGER Cell 2019" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/online-inmf.png" alt="Online iNMF Nature Biotechnology 2021" />
+        <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/online-inmf.png" class="d-block w-100" alt="Online iNMF Nature Biotechnology 2021" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/michigan.png" alt="Genome Biology 2021" />
+        <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/michigan.png" class="d-block w-100" alt="Genome Biology 2021" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/atlas.png" alt="Nature 2021" />
+        <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/atlas.png" class="d-block w-100" alt="Nature 2021" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fish.jpg" alt="EMBO Reports 2021" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icm.png" alt="Nature 2017" />
+        <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fish.jpg" class="d-block w-100" alt="EMBO Reports 2021" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/uinmf.png" alt="Nature Comms 2022" />
+        <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icm.png" class="d-block w-100" alt="Nature 2017" />
+        </div>
+        <div class="carousel-item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/uinmf.png" class="d-block w-100" alt="Nature Comms 2022" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+  <a class="carousel-control-prev" data-target="#carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+  <a class="carousel-control-next" data-target="#carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
