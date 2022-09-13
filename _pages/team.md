@@ -11,12 +11,16 @@ permalink: /team/
  **The Welch Lab has openings for multiple positions, including Postdoctoral Fellow, PhD Student, Bioinformatician, and Software Engineer!** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## Lab
-<div class="row">
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
 {% for member in site.data.team_members %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid float-left d-block w-25" />
-  <h4>{{ member.name }}</h4>
+<div class="col mx-auto">
+  <div class="row">
+  <div class="col-6 clearfix float-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid d-inline-block w-100" />
+  </div>
+  <div class="col-8 mr-auto w-100">
+  <h4 class="text-nowrap">{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
@@ -51,6 +55,8 @@ permalink: /team/
   {% endif %}
 
   </ul>
+  </div>
+  </div>
 </div>
 
 {% endfor %}
@@ -59,16 +65,22 @@ permalink: /team/
 
 ## Alumni
 
-<div class="row">
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
 {% for member in site.data.alumni_members %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid float-left d-block w-25" />
-  <h4>{{ member.name }}</h4>
+<div class="col mx-auto">
+  <div class="row">
+  <div class="col-6 clearfix float-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid d-inline-block w-100" />
+  </div>
+  <div class="col-8 mr-auto w-100">
+  <h4 class="text-nowrap">{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
+</div>
+</div>
 </div>
 
 
