@@ -13,20 +13,18 @@ permalink: /research/
 
 ## Resarch highlights
 
-<div class="row">
+<div class="row row-cols-1 row-cols-xl-2">
 {% for publi in site.data.res %}
 {% if publi.highlight == 1 %}
 
 
-<div class="col-sm-6 clearfix">
- <div class="card">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-fluid w-33 float-left d-block" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+<div class="col mb-4">
+ <div class="card h-100 d-flex flex-column justify-content-between bg-light" >
+  <div class="card-body clearfix">
+  <pubtit class="card-title">{{ publi.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-fluid w-33 float-left d-inline-block" />
+  <p class="card-text" style="font-size: 14px">{{ publi.description }}</p>
+  </div>
  </div>
 </div>
 
