@@ -1,14 +1,16 @@
 <div class="navbar navbar-light bg-light fixed-top navbar-expand-md shadow-sm" role="navigation">
   <div class="container">
+	<div class="d-flex flex-nowrap w-100">
 	<div class="navbar-header">
 	<a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">Welch Lab @ The University of Michigan</a>
 	</div>
-	<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse-1"
+	<button type="button" class="navbar-toggler ml-auto flex-shrink-1" data-toggle="collapse" data-target="#navbar-collapse-1"
 		aria-expanded="false" , aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
+	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav ml-auto justify-content-end">
+	  <ul class="navbar-nav ml-auto justify-content-end flex-nowrap">
 		<li class="nav-item"><a href="{{ site.url }}{{ site.baseurl }}/" class="nav-link">Home</a></li>
 		<li class="nav-item"><a href="{{ site.url }}{{ site.baseurl }}/team" class="nav-link">Team</a></li>
 		<li class="nav-item"><a href="{{ site.url }}{{ site.baseurl }}/publications" class="nav-link">Publications</a></li>
