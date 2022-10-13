@@ -21,6 +21,14 @@
   number_educ: 1
   education1: M.S. in Bioinformatics, University of Michigan
 
+- name: Gaurav Gadhvi
+  photo: Gaurav_headshot.JPG
+  info: Bioinformatician
+  email:
+  number_educ: 1
+  education1: M.S. in Computer Science, Illinois Institute of Technology
+  
+
 - name: Chao Gao
   photo: chao_gao_new.jpg
   info: DCMB Ph.D. Candidate
