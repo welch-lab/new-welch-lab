@@ -28,7 +28,7 @@
   link:
     url: https://icml.cc/virtual/2022/spotlight/16630
     display: ICML 2022 (22% acceptance rate)
-  highlight: 0
+  highlight: 1
 
 - title: "UINMF performs mosaic integration of single-cell multi-omic datasets using nonnegative matrix factorization"
   image: uinmf.png
@@ -48,13 +48,13 @@
   highlight: 0
   news2: 
 
-- title: "Single-cell multi-omic velocity infers dynamic and decoupled gene regulation"
+- title: "Multi-omic single-cell velocity models epigenome–transcriptome interactions and improves cell fate prediction"
   image: 
   authors: Li C, Virgilio MC, Collins KL, Welch JD
   link:
-    url: https://www.biorxiv.org/content/10.1101/2021.12.13.472472v1
-    display:  bioRxiv. Accepted at RECOMB 2022
-  highlight: 0
+    url: https://rdcu.be/cXuUu
+    display:  Nature Biotechnology 2022. Also accepted at RECOMB 2022.
+  highlight: 1
   news2: 
 
 - title: "SquiggleNet: Real-Time, Direct Classification of Nanopore Signals"
@@ -94,7 +94,7 @@
   link:
     url: https://www.embopress.org/doi/abs/10.15252/embr.202152901
     display: EMBO Rep (2021) e52901
-  highlight: 1
+  highlight: 0
   news2: \*Co-Senior Authors
 
 - title: "G-CSF secreted by mutant IDH1 glioma stem cells abolishes myeloid cell immunosuppression and enhances the efficacy of immunotherapy"
