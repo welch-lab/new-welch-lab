@@ -51,6 +51,7 @@
 - title: "Multi-omic single-cell velocity models epigenome–transcriptome interactions and improves cell fate prediction"
   image: 
   authors: Li C, Virgilio MC, Collins KL, Welch JD
+  description: Cells differentiate to their final fates through sequential epigenetic and transcriptional changes. A mathematical model fit on multi-omic single-cell data yields insights into the temporal relationships between chromatin accessibility and gene expression during cell differentiation.
   link:
     url: https://rdcu.be/cXuUu
     display:  Nature Biotechnology 2022. Also accepted at RECOMB 2022.
