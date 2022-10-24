@@ -25,9 +25,10 @@
 - title: "Variational mixtures of ODEs for inferring cellular gene expression dynamics"
   image: 
   authors: Gu Y, Blaauw D, Welch JD
+  description: By using a simple family of ODEs informed by the biochemistry of gene expression to constrain the likelihood of a deep generative model, we can simultaneously infer the latent time and latent state of each cell and predict its future gene expression state. The model can be interpreted as a mixture of ODEs whose parameters vary continuously across a latent space of cell states.
   link:
     url: https://icml.cc/virtual/2022/spotlight/16630
-    display: ICML 2022 (22% acceptance rate)
+    display: ICML 2022
   highlight: 1
 
 - title: "UINMF performs mosaic integration of single-cell multi-omic datasets using nonnegative matrix factorization"
