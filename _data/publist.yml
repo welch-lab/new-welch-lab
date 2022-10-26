@@ -63,9 +63,9 @@
   description: Cells differentiate to their final fates through sequential epigenetic and transcriptional changes. A mathematical model fit on multi-omic single-cell data yields insights into the temporal relationships between chromatin accessibility and gene expression during cell differentiation.
   link:
     url: https://rdcu.be/cXuUu
-    display:  Nature Biotechnology 2022. Also accepted at RECOMB 2022.
+    display:  Nature Biotechnology 2022.
   highlight: 1
-  news2:
+  news2: Also accepted at RECOMB 2022.
 
 - title: "SquiggleNet: Real-Time, Direct Classification of Nanopore Signals"
   image:
