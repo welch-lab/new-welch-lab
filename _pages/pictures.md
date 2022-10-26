@@ -7,25 +7,29 @@ permalink: /software
 
 # Software
 
-**AppEnD tool for mapping 3’ additions from RNA-seq data**
-
-[https://github.com/jw156605/append](https://github.com/jw156605/append)
-
-**SingleSplice algorithm for detecting alternative splicing in a population of single cells**
-
-[https://github.com/jw156605/SingleSplice](https://github.com/jw156605/SingleSplice)
-
-**SLICER (Selective Locally Linear Inference of Cellular Expression Relationships)**
-
-[https://github.com/jw156605/SLICER](https://github.com/jw156605/SLICER)
-
-**MATCHER (Manifold Alignment to Characterize Experimental Relationships)**
-
-[https://github.com/jw156605/MATCHER](https://github.com/jw156605/MATCHER)
-
 **LIGER (Linked Inference of Genomic Experimental Relationships)**
 
 [https://github.com/welch-lab/liger](https://github.com/welch-lab/liger)
+
+**PyLiger: Scalable single-cell multi-omic data integration in Python**
+
+[https://github.com/welch-lab/pyliger](https://github.com/welch-lab/pyliger)
+
+**MultiVelo: Single-cell multi-omic velocity inference**
+
+[https://github.com/welch-lab/MultiVelo](https://github.com/welch-lab/MultiVelo)
+
+**VeloVAE: Bayesian Inference of RNA Velocity from Multi-Lineage Single-Cell Data**
+
+[https://github.com/welch-lab/VeloVAE](https://github.com/welch-lab/VeloVAE)
+
+**PerturbNet: predicting single-cell responses to perturbations**
+
+[https://github.com/welch-lab/PerturbNet](https://github.com/welch-lab/PerturbNet)
+
+**MorphNet: predicting cell morphology from single-cell gene expression**
+
+[https://github.com/welch-lab/MorphNet](https://github.com/single-cell-morphology)
 
 **MichiGAN (Sampling from Disentangled Representations of Cell Identity using Generative Adversarial Networks)**
 
@@ -35,10 +39,18 @@ permalink: /software
 
 [https://github.com/welch-lab/SquiggleNet](https://github.com/welch-lab/SquiggleNet)
 
-**PyLiger: Scalable single-cell multi-omic data integration in Python**
+**MATCHER (Manifold Alignment to Characterize Experimental Relationships)**
 
-[https://github.com/welch-lab/pyliger](https://github.com/welch-lab/pyliger)
+[https://github.com/jw156605/MATCHER](https://github.com/jw156605/MATCHER)
 
-**MultiVelo: Single-cell multi-omic velocity inference**
+**SLICER (Selective Locally Linear Inference of Cellular Expression Relationships)**
 
-[https://github.com/welch-lab/MultiVelo](https://github.com/welch-lab/MultiVelo)
+[https://github.com/jw156605/SLICER](https://github.com/jw156605/SLICER)
+
+**SingleSplice algorithm for detecting alternative splicing in a population of single cells**
+
+[https://github.com/jw156605/SingleSplice](https://github.com/jw156605/SingleSplice)
+
+**AppEnD tool for mapping 3’ additions from RNA-seq data**
+
+[https://github.com/jw156605/append](https://github.com/jw156605/append)
