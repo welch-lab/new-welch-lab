@@ -1,5 +1,5 @@
 - title: "MorphNet predicts cell morphology from single-cell gene expression"
-  image: 
+  image:
   authors: Lee H, Welch JD
   link:
     url: https://www.biorxiv.org/content/10.1101/2022.10.21.513201v1
@@ -7,7 +7,7 @@
   highlight: 0
 
 - title: "A bilevel optimization method for tensor recovery under metric learning constraints"
-  image: 
+  image:
   authors: Bagherian M, Tarzanagh DA, Dinov I, Welch JD
   link:
     url: https://arxiv.org/abs/2209.00545
@@ -15,7 +15,7 @@
   highlight: 0
 
 - title: "PerturbNet predicts single-cell responses to unseen chemical and genetic perturbations"
-  image: 
+  image:
   authors: Yu H, Welch JD
   link:
     url: https://www.biorxiv.org/content/10.1101/2022.07.20.500854v1
@@ -23,7 +23,7 @@
   highlight: 0
 
 - title: "Bayesian inference of RNA velocity from multi-lineage single-cell data"
-  image: 
+  image:
   authors: Gu Y, Blaauw D, Welch JD
   link:
     url: https://www.biorxiv.org/content/10.1101/2022.07.08.499381v1
@@ -31,7 +31,7 @@
   highlight: 0
 
 - title: "Variational mixtures of ODEs for inferring cellular gene expression dynamics"
-  image: 
+  image: ICML.png
   authors: Gu Y, Blaauw D, Welch JD
   description: By using a simple family of ODEs informed by the biochemistry of gene expression to constrain the likelihood of a deep generative model, we can simultaneously infer the latent time and latent state of each cell and predict its future gene expression state. The model can be interpreted as a mixture of ODEs whose parameters vary continuously across a latent space of cell states.
   link:
@@ -49,26 +49,26 @@
   highlight: 1
 
 - title: "PyLiger: Scalable single-cell multi-omic data integration in Python"
-  image: 
+  image:
   authors: Lu L, Welch JD
   link:
     url: https://doi.org/10.1093/bioinformatics/btac190
     display:  Bioinformatics, btac190, March 2022
   highlight: 0
-  news2: 
+  news2:
 
 - title: "Multi-omic single-cell velocity models epigenome–transcriptome interactions and improves cell fate prediction"
-  image: 
+  image: multivelo.png
   authors: Li C, Virgilio MC, Collins KL, Welch JD
   description: Cells differentiate to their final fates through sequential epigenetic and transcriptional changes. A mathematical model fit on multi-omic single-cell data yields insights into the temporal relationships between chromatin accessibility and gene expression during cell differentiation.
   link:
     url: https://rdcu.be/cXuUu
     display:  Nature Biotechnology 2022. Also accepted at RECOMB 2022.
   highlight: 1
-  news2: 
+  news2:
 
 - title: "SquiggleNet: Real-Time, Direct Classification of Nanopore Signals"
-  image: 
+  image:
   authors: Bao Y, Welch JD
   description: Also presented at Machine Learning in Computational Biology (MLCB 2020).
   link:
@@ -116,7 +116,7 @@
     display:  Science Advances Vol 7, Issue 40 (2021)
   highlight: 0
   news2:
-  
+
 - title: "Transcription factor FOXF1 identifies compartmentally distinct mesenchymal cells with a role in lung allograft fibrogenesis"
   image:
   description:
@@ -126,7 +126,7 @@
     display: Journal of Clinical Investigation. doi:10.1172/JCI147343
   highlight: 0
   news2:
-  
+
 - title: "Community-wide hackathons to identify central themes in single-cell multi-omics"
   image: Hthon.png
   description: This article articulates the needs for technologies, data, tools, and computational methods to model the multi-scale regulatory processes of biological systems in single-cell identified our three hackathon studies. It leverages these challenges to present a broad overview of the different types of analysis methods that can be currently applied to identify regulatory processes from multi-omics single-cell data sets and promising areas of future algorithmic development.
@@ -164,7 +164,7 @@
     display:  Genome Biology 22, 158 (2021)
   highlight: 1
   news2: Also presented at Learning Meaningful Representations of Life (LMRL 2020), Workshop at NeurIPS 2020.
-  
+
 - title: "Iterative Single-Cell Multi-Omic Integration Using Online Learning"
   image: online-inmf.png
   description: Here we describe online integrative non-negative matrix factorization (iNMF), an algorithm for integrating large, diverse and continually arriving single-cell datasets. Our approach scales to arbitrarily large numbers of cells using fixed memory, iteratively incorporates new datasets as they are generated and allows many users to simultaneously analyze a single copy of a large dataset by streaming it over the internet. Iterative data addition can also be used to map new data to a reference dataset.
@@ -174,37 +174,37 @@
     display:  Nature Biotechnology 39, 1000–1007 (2021)
   highlight: 1
   news2:
-  
+
 - title: "Jointly defining cell types from multiple single-cell datasets using LIGER"
-  image: 
-  description: 
+  image:
+  description:
   authors: Liu J\*, Gao C\*, Sodicoff J, Kozareva V, Macosko EZ, Welch JD
   link:
     url: https://doi.org/10.1038/s41596-020-0391-8
     display:  Nature Protocols (2020)
   highlight: 0
   news2: \*Equal contribution
-  
+
 - title: "A Wnt-mediated transformation of the bone marrow stromal cell identity orchestrates skeletal regeneration"
-  image: 
-  description: 
+  image:
+  description:
   authors: Matsushita Y, Nagata M, Kozloff K, Welch J, Mizuhashi K, Tokavanich N, Hallett S, Link D, Nagasawa T, Ono W, and Ono N
   link:
     url: https://www.nature.com/articles/s41467-019-14029-w
     display:  Nature Communications. 11, 332 (2020)
   highlight: 0
   news2:
-  
+
 - title: "Single-Cell Transcriptomic Analyses of Cell Fate Transitions during Human Cardiac Reprogramming"
-  image: 
-  description: 
+  image:
+  description:
   authors: Zhou Y, Liu Z, Welch JD, Gao X, Wang L, Garbutt T, Keepers B, Ma H, Prins JF, Shen W, Liu J, Qian L
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1934590919302243
     display:  Stem Cell. 2019 Jun 12
   highlight: 0
   news2:
-  
+
 - title: "Single-cell multi-omic integration compares and contrasts features of brain cell identity"
   image: liger-cell.jpg
   description: To flexibly model single-cell datasets, we developed LIGER, an algorithm that delineates shared and dataset-specific features of cell identity. We applied it to four diverse and challenging analyses of human and mouse brain cells. Integrative analyses using LIGER promise to accelerate investigations of cell-type definition, gene regulation, and disease states.
@@ -216,15 +216,15 @@
   news2: \*Co-Senior Authors
 
 - title: "Slide seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution"
-  image: 
-  description: 
+  image:
+  description:
   authors: "Rodriques SG*, Stickels RR*, Goeva A Martin CA, Murray E, Vanderburg CR, Welch JD, Chen LM, Chen F+, Macosko EZ+"
   link:
     url: http://science.sciencemag.org/content/sci/363/6434/1463.full.pdf
     display: "Science 29 Mar 2019: Vol. 363, Issue 6434, pp. 1463-1467"
   highlight: 0
-  news2: 
-  
+  news2:
+
 - title: "Single-cell transcriptomics reconstructs fate conversion from fibroblast to cardiomyocyte"
   image: icm.png
   description: Despite recent success in directly reprogramming fibroblasts into various cell types, the precise changes that occur as fibroblasts progressively convert to the target cell fates remain unclear. Here we used single-cell RNA sequencing to overcome this limitation and analysed global transcriptome changes at early stages during the reprogramming of mouse fibroblasts into induced cardiomyocytes (iCMs). Using unsupervised dimensionality reduction and clustering algorithms, we identified molecularly distinct subpopulations of cells during reprogramming. We also constructed routes of iCM formation, and delineated the relationship between cell proliferation and iCM induction. In summary, our single-cell transcriptomics approaches enabled us to reconstruct the reprogramming trajectory and to uncover intermediate cell populations, gene pathways and regulators involved in iCM induction.
@@ -236,120 +236,120 @@
   news2: \*Equal contribution
 
 - title: "MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics"
-  description: 
+  description:
   authors: Welch JD, Hartemink AJ, Prins JF
   link:
     url: https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-017-1269-0
     display:  Genome Biology 2017.
   highlight: 0
   news2: Also accepted at RECOMB 2017 under the title E Pluribus Unum - United States of Single Cells
-  
+
 - title: "Selective Single Cell Isolation for Genomics Using Microraft Arrays"
-  image: 
-  description: 
+  image:
+  description:
   authors: Welch JD*, Williams LA*, DiSalvo M*, Brandt AT, Marayati R, Sims CE, Allbritton NL, Prins JF, Yeh JJ, Jones CD
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5041489/pdf/gkw700.pdf
     display:  Nucleic Acids Research 2016
   highlight: 0
   news2:
-  
+
 - title: "A subset of replication-dependent histone mRNAs are expressed as polyadenylated RNAs in terminally differentiated tissues"
-  image: 
-  description: 
+  image:
+  description:
   authors: Lyons SM, Cunningham CH, Welch JD, Groh B, Guo AY, Wei B, Whitfield ML, Xiong Y, Marzluff WF
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100578/pdf/gkw620.pdf
     display:  Nucleic Acids Research 2016
   highlight: 0
   news2:
-  
+
 - title: "SLICER: Inferring branched, nonlinear cellular trajectories from single cell RNA-seq data"
-  image: 
-  description: 
+  image:
+  description:
   authors: Welch JD, Hartemink AJ, Prins JF
   link:
     url: https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-016-0975-3
     display:  Genome Biology 2016, 17
   highlight: 0
   news2:
-  
+
 - title: "Robust Detection of Alternative Splicing in a Population of Single Cells"
-  image: 
-  description: 
+  image:
+  description:
   authors: Welch JD, Hu Y, Prins JF
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4856971/pdf/gkv1525.pdf
     display:  Nucleic Acids Research 2016
   highlight: 0
   news2: Also accepted as a highlight at ISMB 2016
-  
+
 - title: "A multi-protein occupancy map of the mRNP on the 3 end of histone mRNAs"
-  image: 
-  description: 
+  image:
+  description:
   authors: Brooks L, Lyons SM, Mahoney JM, Welch JD, Liu Z, Marzluff WM, Whitfield ML
   link:
     url: https://rnajournal.cshlp.org/content/21/11/1943.full.pdf+html
     display:  RNA 2015
   highlight: 0
   news2:
-  
+
 - title: "EnD-Seq and AppEnD: Sequencing 3 ends to identify nontemplated tails and degradation intermediates"
-  image: 
-  description: 
+  image:
+  description:
   authors: Welch JD*, Slevin MK*, Tatomer D, Duronio RJ, Prins JF, Marzluff WF
   link:
     url: https://rnajournal.cshlp.org/content/21/7/1375.full.pdf+html
     display:  RNA 2015
   highlight: 0
   news2: "*Equal contribution"
-  
+
 - title: "Pseudogenes Transcribed in Breast Invasive Carcinoma Show Subtype-Specific Expression and ceRNA Potential"
-  image: 
-  description: 
+  image:
+  description:
   authors: Welch JD, Baran-Gale J, Perou C, Sethupathy P, Prins JF
   link:
     url: https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-015-1227-8
     display:  BMC Genomics 2015
   highlight: 0
   news2:
-  
+
 - title: "Deep Sequencing Shows Multiple Oligouridylations Are Required for 3′ to 5′ Degradation of Histone mRNAs on Polyribosomes"
-  image: 
-  description: 
+  image:
+  description:
   authors: Slevin MK, Meaux S, Welch JD, Bigler R, Miliani de Marval PL, Su W, Rhoads RE, Prins JF, Marzluff WF
   link:
     url: https://www.cell.com/action/showPdf?pii=S1097-2765%2814%2900199-3
     display:  Molecular cell 53 (6), 1020-1030. March 2014
   highlight: 0
   news2:
-  
+
 - title: "WordSeeker: concurrent bioinformatics software for discovering genome-wide patterns and word-based genomic signatures"
-  image: 
-  description: 
+  image:
+  description:
   authors: Lichtenberg J, Kurz K, Liang X, Al-ouran R, Neiman L, Nau LJ, Welch JD, Jacox E, Bitterman T, Ecker K, Elnitski L, Drews F, Lee SS, Welch LR
   link:
     url: #
     display:  BMC Bioinformatics. 2010 Dec 21;11 Suppl 12
   highlight: 0
   news2:
-  
+
 - title: "The word landscape of the non-coding segments of the Arabidopsis thaliana genome. BMC Genomics"
-  image: 
-  description: 
+  image:
+  description:
   authors: Lichtenberg J, Yilmaz A, Welch JD, Kurz K, Liang X, Drews F, Ecker K, Lee SS, Geisler M, Grotewold E, Welch LR
   link:
-    url: 
+    url:
     display:  BMC Genomics. 2009 Oct 8
   highlight: 0
   news2:
-  
+
 - title: "Word-based characterization of promoters involved in human DNA repair pathways"
-  image: 
-  description: 
+  image:
+  description:
   authors: Lichtenberg J, Jacox E, Welch JD, Kurz K, Liang X, Yang MQ, Drews F, Ecker K, Lee SS, Elnitski L, Welch LR
   link:
-    url: 
+    url:
     display:  BMC Genomics. 2009 Jul 7;10 Suppl 1
   highlight: 0
   news2:
