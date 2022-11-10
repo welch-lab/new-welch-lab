@@ -1,23 +1,16 @@
 - name: Joshua Welch, Ph.D.
   photo: welch_portraitt_sized.jpg
   info: Assistant Professor
-  email: 
+  email:
   number_educ: 3
   education1: Department of Computational Medicine and Bioinformatics
   education2: Department of Computer Science and Engineering
   education3: <a href="https://welch-lab.github.io/JoshuaWelch_CV.pdf">CV</a>
-  
-- name: Maryam Bagherian, Ph.D.
-  photo: MaryamBagherian.png
-  info: Postdoctoral Researcher, MIDAS Fellow
-  email: 
-  number_educ: 1
-  education1: Ph.D. in Mathematics, University of South Florida
 
 - name: Angel Ka Yan Chu
   photo: angel_chu.jpg
   info: Bioinformatician
-  email: 
+  email:
   number_educ: 1
   education1: M.S. in Bioinformatics, University of Michigan
 
@@ -27,7 +20,7 @@
   email:
   number_educ: 1
   education1: M.S. in Computer Science, Illinois Institute of Technology
-  
+
 
 - name: Chao Gao
   photo: chao_gao_new.jpg
@@ -40,27 +33,27 @@
 - name: Yichen Gu
   photo: YichenGu_Resized.png
   info: ECE Ph.D. Candidate (joint with David Blaauw)
-  email: 
+  email:
   number_educ: 1
   education1: B.S. in Electrical and Computer Engineering, University of Illinois - Urbana
-  
+
 - name: Albert Hung
   photo: AlbertHung.png
   info: Computer Science and Engineering B.S. student
-  email: 
+  email:
   number_educ: 0
 
 - name: April Kriebel
   photo: april_kriebel.png
   info: DCMB Ph.D. Candidate
-  email: 
+  email:
   number_educ: 1
   education1: B.S. in Mathematics, Spring Arbor University
 
 - name: Hojae Lee
   photo: hojae-lee.jpg
   info: ECE Ph.D. Candidate
-  email: 
+  email:
   number_educ: 1
   education1: B.S. in Biomedical Engineering, University of California - Berkeley
 
@@ -74,44 +67,44 @@
 - name: Chen Li
   photo: Chen-Li.jpg
   info: DCMB Ph.D. Candidate
-  email: 
+  email:
   number_educ: 1
   education1: B.S. in Bioinformatics, University of California - San Diego
-  
+
 - name: Jingyi Liu
   photo: Jingyi-Liu.jpg
   email:
   info: Neuroscience B.S. Student
   number_educ: 0
-  
+
 - name: Jialin Liu
   photo: Jialin-Liu.jpeg
   info: DCMB Ph.D. Candidate
-  email: 
-  number_educ: 1 
+  email:
+  number_educ: 1
   education1: M.S. in Bioinformatics, University of Michigan
-  
+
 - name: Lu Lu
   photo: LuLu-Wang.jpg
   info: DCMB Ph.D. Student
   email:
   number_educ: 1
   education1: M.S. in Bioinformatics, University of Michigan
-  
+
 - name: Weizhou Qian
   photo: weizhou_qian.jpg
   info: Biostatistics MS Student
   email:
   number_educ: 1
   education1: B.S. in Chemistry, Xiamen University
-  
+
 - name: Andrew Robbins
   photo: andrew_robbins.jpg
   info: Bioinformatician
   email:
   number_educ: 1
   education1: B.S. in Biochemistry, Case Western Reserve University
-  
+
 - name: Zaid Siddiqui
   photo: ZaidSiddiqui-resized.jpg
   info: Computer Science and Engineering B.S. Student
@@ -124,13 +117,13 @@
   email:
   number_educ: 1
   education1: B.S. in Biomedical Engineering, University of Michigan
-  
+
 - name: Yuxuan Song
   photo: YuxuanSong.png
   info: Bioinformatics M.S. Student
   email:
   number_educ: 0
-  
+
 - name: Jane Wiesner
   photo: jane.jpg
   info: Administrative Specialist Associate Healthcare
