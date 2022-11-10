@@ -2,24 +2,24 @@
   photo: hengshi_yu.jpg
   duration: 2018-2022
   info: Ph.D. in Biostatistics, now data scientist at Google
-  email: 
+  email:
   number_educ: 1
   education1: M.S. in Biostatistics, Duke University
-
-- name: Yuwei Bao
-  photo: yuwei-bao.jpg
-  duration: 2018-2019
-  info: Bioinformatics/CSE MS Student, now PhD student at University of Michigan
-  email: 
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:
 
 - name: Ruohan Liao
   photo: Ruohan-Liao.jpg
   info: Biostatistics MS Student, now PhD student at North Carolina State University
   duration: 2019-2020
-  email: 
-  number_educ: 
+  email:
+  number_educ:
+
+- name: Yuwei Bao
+  photo: yuwei-bao.jpg
+  duration: 2018-2019
+  info: Bioinformatics/CSE MS Student, now PhD student at University of Michigan
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
