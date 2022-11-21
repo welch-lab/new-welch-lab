@@ -124,6 +124,12 @@
   email:
   number_educ: 0
 
+- name: Yichen Wang
+  info: Bioinformatician
+  number_educ: 1
+  education1: M.S. in Bioinformatics, Boston University
+  photo: Yichen-Wang.png
+
 - name: Jane Wiesner
   photo: jane.jpg
   info: Administrative Specialist Associate Healthcare
