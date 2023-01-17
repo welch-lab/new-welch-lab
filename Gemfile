@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.0"
 
 gem "webrick", "~> 1.7"
 
-gem "jekyll-autoprefixer", "~> 1.0", group: :jekyll_plugins
+gem "jekyll-theme-minimal"
 
-gem "execjs", "= 2.7.0"
+gem "jekyll-autoprefixer-re", github: "silkkycloud/jekyll-autoprefixer-re", group: :jekyll_plugins
