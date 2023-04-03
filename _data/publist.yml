@@ -1,3 +1,11 @@
+- title: "HIV-1 Vpr combats the PU.1-driven antiviral response in primary human macrophages"
+  image:
+  authors:  Virgilio MC,  Disbennett WM,  Chen T, Lubow Jay, Welch JD, Collins KL
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2023.03.21.533528v1
+    display: bioRxiv 2023
+  highlight: 0
+
 - title: "MorphNet predicts cell morphology from single-cell gene expression"
   image:
   authors: Lee H, Welch JD
