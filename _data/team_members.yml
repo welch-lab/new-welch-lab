@@ -128,7 +128,8 @@
   photo: YuxuanSong.png
   info: DCMB Ph.D. Candidate (joint with Matt O'Meara)
   email:
-  number_educ: 0
+  number_educ: 1
+  education1: M.S. in Bioinformatics, University of Michigan
 
 - name: Yichen Wang
   info: Bioinformatician
