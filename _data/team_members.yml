@@ -37,6 +37,12 @@
   number_educ: 1
   education1: B.S. in Electrical and Computer Engineering, University of Illinois - Urbana
 
+- name: Renxiang (Alvin) Guan
+  photo: renxiang-guan.jpg
+  info: BME B.S.E Student
+  email:
+  number_educ: 0
+
 - name: Albert Hung
   photo: AlbertHung.png
   info: Computer Science and Engineering B.S. student
