@@ -56,6 +56,13 @@
   number_educ: 1
   education1: B.S. in Mathematics, Spring Arbor University
 
+- name: Gretchen Lam
+  photo: gl_profile_picture_720.jpg
+  info: Masters of Applied Data Science Student
+  number_educ: 1
+  education1: M.S in Bioengineering, Stanford University
+
+
 - name: Hojae Lee
   photo: hojae-lee.jpg
   info: ECE Ph.D. Candidate
