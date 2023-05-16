@@ -1,4 +1,4 @@
-- title: Single-Cell Data Integration
+- title: Single-Cell Multi-Omic Data Integration
   image: online-inmf.png
   description: In recent papers published in Cell and Nature Biotechnology, we developed LIGER and online iNMF. These approaches allow integration of single-cell transcriptomic, epigenomic and spatial transcriptomic datasets from different single cells.
   authors: 
@@ -8,7 +8,7 @@
   highlight: 1
   news2:
 
-- title: Single-Cell Trajectory Inference
+- title: Computational Analysis of Cell Fate Transitions
   image: research2.png
   description: We developed SLICER and MATCHER, approaches for inferring sequential transcriptomic and epigenomic changes in differentiating cells.
   authors: 
@@ -20,7 +20,7 @@
   
 - title: Applications in Neuroscience
   image: atlas.png
-  description: As part of the BRAIN Initiative Cell Census Network, we are integrating single-cell transcriptomic, epigenomic, and spatial datasets to characterize the cell types in the mouse brain.
+  description: As part of the BRAIN Initiative Cell Atlas Network, we are integrating single-cell transcriptomic, epigenomic, and spatial datasets to characterize the cell types in the mammalian brain.
   authors: 
   link:
     url: 
@@ -30,7 +30,7 @@
   
 - title: Applications in Stem Cell Differentiation and Reprogramming
   image: research2.png
-  description: Using the algorithms we have developed, we are investigating stem cell differentiation in mouse bone and human blood cells. We are also interested in somatic cell reprogramming, particularly direct cardiac reprogramming.
+  description: Using the algorithms we have developed, we are investigating stem cell differentiation in mouse bone and human blood cells. We are also interested in cell reprogramming.
   authors: 
   link:
     url: 
