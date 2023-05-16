@@ -10,7 +10,7 @@
 
 - title: Computational Analysis of Cell Fate Transitions
   image: research2.png
-  description: We developed SLICER and MATCHER, approaches for inferring sequential transcriptomic and epigenomic changes in differentiating cells.
+  description: We developed MultiVelo and VeloVAE, approaches for inferring sequential transcriptomic and epigenomic changes in differentiating cells.
   authors: 
   link:
     url: 
