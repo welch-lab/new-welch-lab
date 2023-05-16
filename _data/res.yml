@@ -9,7 +9,7 @@
   news2:
 
 - title: Computational Analysis of Cell Fate Transitions
-  image: research2.png
+  image: multivelo.png
   description: We developed MultiVelo and VeloVAE, approaches for inferring sequential transcriptomic and epigenomic changes in differentiating cells.
   authors: 
   link:
