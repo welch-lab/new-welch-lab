@@ -14,7 +14,7 @@ permalink: /research/
 ## Resarch highlights
 
 <div class="row row-cols-1 row-cols-xl-2">
-{% for publi in site.data.res %}
+{% for publi in res %}
 {% if publi.highlight == 1 %}
 
 
@@ -22,7 +22,9 @@ permalink: /research/
  <div class="card h-100 d-flex flex-column justify-content-between bg-light" >
   <div class="card-body clearfix">
   <pubtit class="card-title">{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-fluid w-33 float-left d-inline-block" />
+  <p>
+  <img src="{{'/images/pubpic/' | url }}/{{ publi.image }}" class="img-fluid w-33 float-left d-inline-block" />
+  </p>
   <p class="card-text" style="font-size: 14px">{{ publi.description }}</p>
   </div>
  </div>

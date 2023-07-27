@@ -6,7 +6,7 @@
   education1: B.S. in Computer Science, B.Mus. in Piano, Ohio University
   education2: M.S., Ph.D. in Computer Science, University of North Carolina
   education3: Postdoctoral Training, Broad Institute of Harvard and MIT
-  education4: <a href="https://welch-lab.github.io/downloads/JoshuaWelch-MCV-11-20-22.pdf">CV</a>
+  education4: <a href="{{'downloads/JoshuaWelch-MCV-11-20-22.pdf'|url}}">CV</a>
 
 - name: Angel Ka Yan Chu
   photo: angel_chu.jpg

@@ -2,7 +2,7 @@
 title: "Welch Lab - Software"
 layout: piclay
 excerpt: "Welch Lab -- Software"
-permalink: /software
+permalink: /software/
 ---
 
 # Software

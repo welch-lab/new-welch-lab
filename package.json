@@ -1,0 +1,22 @@
+{
+  "name": "welch-lab.github.io",
+  "version": "1.0.0",
+  "description": "This is the website of our academic research group at University of Michigan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@sardine/eleventy-plugin-external-links": "^1.4.0",
+    "autoprefixer": "^10.4.14",
+    "bootstrap": "4.6.x",
+    "eleventy-plugin-gen-favicons": "^1.1.2",
+    "eleventy-sass": "^2.2.3",
+    "esbuild": "^0.18.17",
+    "js-yaml": "^4.1.0"
+  }
+}

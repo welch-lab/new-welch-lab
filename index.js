@@ -1,0 +1,2 @@
+import("jquery")
+require("bootstrap")
