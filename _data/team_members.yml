@@ -49,6 +49,12 @@
   email:
   number_educ: 0
 
+- name: Matthew Karikomi
+  photo: matthew_karikomi.jpg
+  info: Postdoctoral Research Fellow
+  number_educ: 1
+  education1: Ph.D. in Mathmatical, Computational, and Systems Biology, University of California - Irvine
+
 - name: April Kriebel
   photo: april_kriebel.png
   info: DCMB Ph.D. Candidate
