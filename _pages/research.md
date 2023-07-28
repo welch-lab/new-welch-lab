@@ -11,7 +11,7 @@ permalink: /research/
 
 <p>Most recently, I have focused on developing open-source software for the processing, analysis, and modeling of single-cell sequencing data. Key contributions in this area include SLICER, an algorithm for inferring developmental trajectories; LIGER, a general approach for integrating single-cell transcriptomic, epigenomic and spatial transcriptomic data; and online iNMF, a scalable and iterative algorithm for single-cell data integration. I have applied these methods in collaboration with biological scientists to study stem cell differentiation, somatic cell reprogramming, and the brain.</p>
 
-## Resarch highlights
+## Research highlights
 
 <div class="row row-cols-1 row-cols-xl-2">
 {% for publi in res %}

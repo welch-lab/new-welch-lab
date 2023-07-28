@@ -8,12 +8,12 @@
 
 - title: "Bone marrow endosteal stem cells dictate active osteogenesis and aggressive tumorigenesis"
   image:
-  authors:  Matsushita Y\*, Liu J\*, Ka Yan Chu A, Tsutsumi-Arai C, Nagata M, Arai Y, Ono W, Yamamoto K, Saunders TL, Welch JD\*, Ono N\*
+  authors:  Matsushita Y*, Liu J*, Ka Yan Chu A, Tsutsumi-Arai C, Nagata M, Arai Y, Ono W, Yamamoto K, Saunders TL, Welch JD*, Ono N*
   link:
     url: https://rdcu.be/daHuT
     display: Nature Communications 2023
   highlight: 0
-  news2: \*Co-First Authors, Co-Senior Authors
+  news2: "*Co-First Authors, Co-Senior Authors"
 
 - title: "HIV-1 Vpr combats the PU.1-driven antiviral response in primary human macrophages"
   image:
@@ -125,12 +125,12 @@
 - title: "Functional coordination of non-myocytes plays a key role in adult zebrafish heart regeneration"
   image: fish.jpg
   description: Using LIGER and Topologizer, we assemble an atlas of cell states from 61,977 individual non-CM scRNA-seq profiles isolated at multiple time points during regeneration. This analysis reveals extensive non-CM cell diversity and suggests an important role for MC in inducing the activated FB and EC subpopulations. Furthermore, map the topological relationships and dynamic transitions between functional states. Our analysis provides a blueprint for interrogating the molecular and cellular basis of cardiac regeneration.
-  authors: Ma H, Liu Z, Yang Y, Feng D, Dong Y, Garbutt T, Hu Z, Wang L, Luan C, Cooper C, Li Y, Welch JD\*, Qian L\*, Liu J\*
+  authors: Ma H, Liu Z, Yang Y, Feng D, Dong Y, Garbutt T, Hu Z, Wang L, Luan C, Cooper C, Li Y, Welch JD*, Qian L*, Liu J*
   link:
     url: https://www.embopress.org/doi/abs/10.15252/embr.202152901
     display: EMBO Rep (2021) e52901
   highlight: 0
-  news2: \*Co-Senior Authors
+  news2: "*Co-Senior Authors"
 
 - title: "G-CSF secreted by mutant IDH1 glioma stem cells abolishes myeloid cell immunosuppression and enhances the efficacy of immunotherapy"
   image:
@@ -203,12 +203,12 @@
 - title: "Jointly defining cell types from multiple single-cell datasets using LIGER"
   image:
   description:
-  authors: Liu J\*, Gao C\*, Sodicoff J, Kozareva V, Macosko EZ, Welch JD
+  authors: Liu J*, Gao C*, Sodicoff J, Kozareva V, Macosko EZ, Welch JD
   link:
     url: https://doi.org/10.1038/s41596-020-0391-8
     display:  Nature Protocols (2020)
   highlight: 0
-  news2: \*Equal contribution
+  news2: "*Equal contribution"
 
 - title: "A Wnt-mediated transformation of the bone marrow stromal cell identity orchestrates skeletal regeneration"
   image:
@@ -233,12 +233,12 @@
 - title: "Single-cell multi-omic integration compares and contrasts features of brain cell identity"
   image: liger-cell.jpg
   description: To flexibly model single-cell datasets, we developed LIGER, an algorithm that delineates shared and dataset-specific features of cell identity. We applied it to four diverse and challenging analyses of human and mouse brain cells. Integrative analyses using LIGER promise to accelerate investigations of cell-type definition, gene regulation, and disease states.
-  authors: Welch JD\*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ\*
+  authors: Welch JD*, Kozareva V, Ferreira A, Vanderburg C, Martin C, Macosko EZ*
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0092867419305045
     display:  Cell. Volume 177, Issue 7, 13 June 2019, Pages 1873-1887.e17
   highlight: 1
-  news2: \*Co-Senior Authors
+  news2: "*Co-Senior Authors"
 
 - title: "Slide seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution"
   image:
@@ -253,12 +253,12 @@
 - title: "Single-cell transcriptomics reconstructs fate conversion from fibroblast to cardiomyocyte"
   image: icm.png
   description: We used single-cell RNA sequencing to analyse global transcriptome changes at early stages during the reprogramming of mouse fibroblasts into induced cardiomyocytes (iCMs). Using unsupervised dimensionality reduction and clustering algorithms, we identified molecularly distinct subpopulations of cells during reprogramming. We also constructed routes of iCM formation, and delineated the relationship between cell proliferation and iCM induction.
-  authors: Liu Z\*, Wang L\*, Welch JD\*, Ma H, Zhou Y, Vaseghi HR, Yu S, Wall JB, Alimohamadi S, Zheng M, Yin C, Shen W, Prins JF, Liu J, Qian L
+  authors: Liu Z*, Wang L*, Welch JD*, Ma H, Zhou Y, Vaseghi HR, Yu S, Wall JB, Alimohamadi S, Zheng M, Yin C, Shen W, Prins JF, Liu J, Qian L
   link:
     url: https://www.nature.com/articles/nature24454
     display: "Nature (02 November 2017). 551, 100–104 doi:10.1038/nature24454"
   highlight: 1
-  news2: \*Equal contribution
+  news2: "*Equal contribution"
 
 - title: "MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics"
   description:
