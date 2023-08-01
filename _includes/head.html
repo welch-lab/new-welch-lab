@@ -4,6 +4,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>{% if title %}{{ title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <script type="importmap">
+      {
+        "imports": {
+          "@popperjs/core": "https://unpkg.com/@popperjs/core@^2/dist/esm/popper.js",
+          "bootstrap": "https://unpkg.com/bootstrap@^5/dist/js/bootstrap.esm.min.js"
+        }
+      }
+      </script>
   <link rel="stylesheet" href="{{ "/css/main.css" | url}}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   {% favicons './images/favicon.svg' %}

@@ -1,18 +1,28 @@
 ---
 ---
 
-$sizes: (25: 25%,
-			33: 33%,
-			50: 50%,
-			75: 75%,
-			100: 100%,
-			auto: auto);
-@import "bootstrap";
 
+@import "bootstrap";
+@import "bootstrap-icons.scss";
+@import "functions";
+@import "variables";
+@import "utilities";
+$utilities: map-merge($utilities,
+		("width": map-merge(map-get($utilities, "width"),
+				(values: map-merge(map-get(map-get($utilities, "width"), "values"),
+						(33: 33%),
+					),
+				),
+			),
+		));
+
+
+@import "utilities/api";
 img { margin-bottom: 24px;
      margin-top: 17px;
     border-radius:2%;
 }
+
 
 
 body {

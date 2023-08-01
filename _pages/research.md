@@ -23,7 +23,7 @@ permalink: /research/
   <div class="card-body clearfix">
   <pubtit class="card-title">{{ publi.title }}</pubtit>
   <p>
-  <img src="{{'/images/pubpic/' | url }}/{{ publi.image }}" class="img-fluid w-33 float-left d-inline-block" />
+  <img src="{{'/images/pubpic/' | url }}/{{ publi.image }}" class="img-fluid w-33 float-start d-inline-block" />
   </p>
   <p class="card-text" style="font-size: 14px">{{ publi.description }}</p>
   </div>
