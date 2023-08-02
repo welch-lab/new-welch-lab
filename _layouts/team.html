@@ -1,7 +1,82 @@
 ---
-layout: default
+layout: piclay
 ---
-<div id="team" class="col-sm-12">
+<div id="team">
   {{ content }}
+  <h2 id="lab">Lab</h2>
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3">
+    {% for member in team_members %}
+
+    <div class="col-8 d-inline-flex flex-column">
+      <p>
+        <img src="{{ '/images/teampic/' | url }}{{ member.photo }}" class="img-fluid d-inline-block w-50" />
+      </p>
+      <div class="col flex-fill ms-0 ps-0 pe-6">
+        <h4>{{ member.name }}</h4>
+        <p>
+          <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+        </p>
+        <ul style="margin: 0; padding: 0; font-size: 14px">
+
+          {% if member.number_educ == 1 %}
+          <li> {{ member.education1 }} </li>
+          {% endif %}
+
+          {% if member.number_educ == 2 %}
+          <li> {{ member.education1 }} </li>
+          <li> {{ member.education2 }} </li>
+          {% endif %}
+
+          {% if member.number_educ == 3 %}
+          <li> {{ member.education1 }} </li>
+          <li> {{ member.education2 }} </li>
+          <li> {{ member.education3 }} </li>
+          {% endif %}
+
+          {% if member.number_educ == 4 %}
+          <li> {{ member.education1 }} </li>
+          <li> {{ member.education2 }} </li>
+          <li> {{ member.education3 }} </li>
+          <li> {{ member.education4 }} </li>
+          {% endif %}
+
+          {% if member.number_educ == 5 %}
+          <li> {{ member.education1 }} </li>
+          <li> {{ member.education2 }} </li>
+          <li> {{ member.education3 }} </li>
+          <li> {{ member.education4 }} </li>
+          <li> {{ member.education5 }} </li>
+          {% endif %}
+
+        </ul>
+      </div>
+    </div>
+
+    {% endfor %}
+
+  </div>
+
+  <h2 id="alumni">Alumni</h2>
+
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3">
+    {% for member in alumni_members %}
+
+    <div class="col-6 clearfix float-start">
+      <p>
+        <img src="{{ '/images/teampic/' | url }}{{ member.photo }}" class="img-fluid d-inline-block w-50" />
+      </p>
+      <div class="col flex-fill ms-0 ps-0 pe-6">
+        <h4>{{ member.name }}</h4>
+        <p>
+          <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+        </p>
+      </div>
+    </div>
+
+
+    {% endfor %}
+
+  </div>
+
 </div>
 

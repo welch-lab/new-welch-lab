@@ -6,9 +6,10 @@ sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+<h1 id="news">News</h1>
 
 {% for article in news %}
 <p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
+    <em>{{ article.headline }}</em>
+</p>
 {% endfor %}

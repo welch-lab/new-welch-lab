@@ -1,6 +1,31 @@
 ---
-layout: default
+layout: gridlay
 ---
-<div id="publications" class="col-sm-12">
+<div id="research">
   {{ content }}
+  <h2 id="research">Research highlights</h2>
+
+  <div class="row row-cols-1 row-cols-xl-2">
+    {% for publi in res %}
+    {% if publi.highlight == 1 %}
+
+
+    <div class="col mb-4">
+      <div class="card h-100 d-flex flex-column justify-content-between bg-light">
+        <div class="card-body clearfix">
+          <pubtit class="card-title">{{ publi.title }}</pubtit>
+          <p>
+            <img src="{{'/images/pubpic/' | url }}/{{ publi.image }}" class="img-fluid w-33 float-start d-inline-block" />
+          </p>
+          <p class="card-text" style="font-size: 14px">{{ publi.description }}</p>
+        </div>
+      </div>
+    </div>
+
+    {% endif %}
+    {% endfor %}
+
+  </div>
+
+  <p> &nbsp; </p>
 </div>
