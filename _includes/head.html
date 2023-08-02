@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | url}}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   {% favicons './images/favicon.svg' %}
-{% if jekyll.environment == 'production' %}
+{% if eleventy.runMode == 'build' %}
 {% include analytics.html %}
 {% endif %}
 
