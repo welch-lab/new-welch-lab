@@ -130,19 +130,19 @@
   number_educ: 1
   education1: B.S. in Chemistry, Xiamen University
 
+- name: Jacob Repucci
+  photo: jake_rep.png
+  info: Bioinformatician
+  number_educ: 1
+  education1: B.S. in Interdisciplinary Physics, University of Michigan
+
+
 - name: Andrew Robbins
   photo: andrew_robbins.jpg
-  info: Bioinformatician
+  info: Systems Analyst/Bioinformatics MS Student
   email:
   number_educ: 1
-  education1: B.S. in Biochemistry, Case Western Reserve University
-
-- name: Joshua Sodicoff
-  photo: Joshua-Sodicoff.jpg
-  info: Research Lab Specialist
-  email:
-  number_educ: 1
-  education1: B.S. in Biomedical Engineering, University of Michigan
+  education1: B.A. in Biochemistry & Music, Case Western Reserve University
 
 - name: Yuxuan Song
   photo: YuxuanSong.png
@@ -158,7 +158,7 @@
   photo: Yichen-Wang.png
 
 - name: Crystal Wen
-  info: Bioinformatics M.S. Student
+  info: Bioinformatics Ph.D. Student
   number_educ: 1
   education1: M.S. in Bioinformatics, University of Michigan
   photo: Crystal-Wen.jpg
