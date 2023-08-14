@@ -1,5 +1,6 @@
 {
-    "yaml.schemas": {
-        "https://json.schemastore.org/jekyll.json": "file:///home/andrew/welch-lab.github.io/_data/site.yaml"
-    }
+    "livePreview.openPreviewTarget": "External Browser",
+    "livePreview.tasks.runTaskWithExternalPreview": true,
+    "livePreview.serverRoot": "_site",
+    "livePreview.showServerStatusNotifications": true,
 }

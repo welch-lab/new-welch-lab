@@ -4,7 +4,7 @@
   "description": "This is the website of our academic research group at University of Michigan.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "npx @11ty/eleventy --serve"
   },
   "keywords": [],
   "author": "",
