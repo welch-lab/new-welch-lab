@@ -17,19 +17,19 @@
     <ul class="navbar-nav ps-3 pe-2">
 
       <li class="nav-item">
-        <a href="{{ '/' | url}}" {% if page.url == '/' %}class="nav-link active"{% else %}class="nav-link"{% endif %}>Home</a>
+        <a href="{{ '/' | url}}" {% if page.url == '/' %}class="nav-link active"aria-current="page"{% else %}class="nav-link"{% endif %}>Home</a>
       </li>
       <li class="nav-item">
-        <a href="{{ '/team/' | url}}" {% if page.url == '/team/' %}class="nav-link active"{% else %}class="nav-link"{% endif %}>Team</a>
+        <a href="{{ '/team/' | url}}" {% if page.url == '/team/' %}class="nav-link active"aria-current="page"{% else %}class="nav-link"{% endif %}>Team</a>
       </li>
       <li class="nav-item">
-        <a href="{{ '/publications/' | url}}" {% if page.url == '/publications/' %}class="nav-link active"{% else %}class="nav-link"{% endif %}">Publications</a>
+        <a href="{{ '/publications/' | url}}" {% if page.url == '/publications/' %}class="nav-link active"aria-current="page"{% else %}class="nav-link"{% endif %}">Publications</a>
       </li>
       <li class="nav-item">
-        <a href="{{ '/research/' | url}}" {% if page.url == '/research/' %}class="nav-link active"{% else %}class="nav-link"{% endif %}">Research</a>
+        <a href="{{ '/research/' | url}}" {% if page.url == '/research/' %}class="nav-link active"aria-current="page"{% else %}class="nav-link"{% endif %}">Research</a>
       </li>
       <li class="nav-item">
-        <a href="{{ '/software/' | url}}" {% if page.url == '/software/' %}class="nav-link active"{% else %}class="nav-link"{% endif %}">Software</a>
+        <a href="{{ '/software/' | url}}" {% if page.url == '/software/' %}class="nav-link active"aria-current="page"{% else %}class="nav-link"{% endif %}">Software</a>
       </li>
     </ul>
   </div>
@@ -37,4 +37,4 @@
 <script type="module">
   import * as bootstrap from 'bootstrap'
   const collapseElementList = document.querySelectorAll('.collapse')
-      	const collapseList = [...collapseElementList].map(collapseEl => new bootstrap.Collapse(collapseEl))</script>
+        	const collapseList = [...collapseElementList].map(collapseEl => new bootstrap.Collapse(collapseEl))</script>
