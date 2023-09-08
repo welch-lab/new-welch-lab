@@ -1,170 +1,146 @@
-- name: Joshua Welch, Ph.D.
+- email: null
+  info:
+    Associate Professor of Computational Medicine and Bioinformatics, Associate
+    Professor of Computer Science and Engineering
+  list_educ:
+    - B.S. in Computer Science, B.Mus. in Piano, Ohio University
+    - M.S., Ph.D. in Computer Science, University of North Carolina
+    - Postdoctoral Training, Broad Institute of Harvard and MIT
+  name: <a href="/aboutme/">Joshua Welch, Ph.D.</a>
   photo: Welch-Headshot.jpg
-  info: Associate Professor of Computational Medicine and Bioinformatics, Associate Professor of Computer Science and Engineering
-  email:
-  number_educ: 4
-  education1: B.S. in Computer Science, B.Mus. in Piano, Ohio University
-  education2: M.S., Ph.D. in Computer Science, University of North Carolina
-  education3: Postdoctoral Training, Broad Institute of Harvard and MIT
-  education4: <a href="{{'downloads/JoshuaWelch-MCV-11-20-22.pdf'|url}}">CV</a>
-
-- name: Angel Ka Yan Chu
+- email: null
+  info: Bioinformatician
+  list_educ:
+    - M.S. in Bioinformatics, University of Michigan
+  name: Angel Ka Yan Chu
   photo: angel_chu.jpg
+- email: null
   info: Bioinformatician
-  email:
-  number_educ: 1
-  education1: M.S. in Bioinformatics, University of Michigan
-
-- name: Gaurav Gadhvi
+  list_educ:
+    - M.S. in Computer Science, Illinois Institute of Technology
+  name: Gaurav Gadhvi
   photo: Gaurav_headshot.JPG
-  info: Bioinformatician
-  email:
-  number_educ: 1
-  education1: M.S. in Computer Science, Illinois Institute of Technology
-
-- name: Chao Gao
+- email: null
+  info: DCMB Ph.D. Candidate
+  list_educ:
+    - M.S. in Biostatistics, University of Michigan
+    - M.S. in Pharmacology, University of Michigan
+  name: Chao Gao
   photo: chao_gao_new.jpg
-  info: DCMB Ph.D. Candidate
-  email:
-  number_educ: 2
-  education1: M.S. in Biostatistics, University of Michigan
-  education2: M.S. in Pharmacology, University of Michigan
-
-- name: Yichen Gu
-  photo: YichenGu_Resized.png
+- email: null
   info: ECE Ph.D. Candidate (joint with David Blaauw)
-  email:
-  number_educ: 1
-  education1: B.S. in Electrical and Computer Engineering, University of Illinois - Urbana
-
-- name: Renxiang (Alvin) Guan
-  photo: renxiang-guan.jpg
+  list_educ:
+    - B.S. in Electrical and Computer Engineering, University of Illinois - Urbana
+  name: Yichen Gu
+  photo: YichenGu_Resized.png
+- email: null
   info: ECE B.S.E Student
-  email:
-  number_educ: 0
-
-- name: Albert Hung
-  photo: AlbertHung.png
+  list_educ: []
+  name: Renxiang (Alvin) Guan
+  photo: renxiang-guan.jpg
+- email: null
   info: Computer Science and Engineering B.S. student
-  email:
-  number_educ: 0
-
-- name: Matthew Karikomi
+  list_educ: []
+  name: Albert Hung
+  photo: AlbertHung.png
+- info: Postdoctoral Research Fellow
+  list_educ:
+    - Ph.D. in Mathematical, Computational, and Systems Biology, University of California
+      - Irvine
+    - B.S. in Mathematics, B.S. in Molecular Genetics, The Ohio State University
+  name: Matthew Karikomi
   photo: matthew_karikomi.jpg
-  info: Postdoctoral Research Fellow
-  number_educ: 2
-  education1: Ph.D. in Mathematical, Computational, and Systems Biology, University of California - Irvine
-  education2: B.S. in Mathematics, B.S. in Molecular Genetics, The Ohio State University
-
-- name: April Kriebel
+- email: null
+  info: DCMB Ph.D. Candidate
+  list_educ:
+    - B.S. in Mathematics, Spring Arbor University
+  name: April Kriebel
   photo: april_kriebel.png
-  info: DCMB Ph.D. Candidate
-  email:
-  number_educ: 1
-  education1: B.S. in Mathematics, Spring Arbor University
-
-- name: Gretchen Lam
+- info: Masters of Applied Data Science Student
+  list_educ:
+    - M.S in Bioengineering, Stanford University
+  name: Gretchen Lam
   photo: gl_profile_picture_720.jpg
-  info: Masters of Applied Data Science Student
-  number_educ: 1
-  education1: M.S in Bioengineering, Stanford University
-
-
-- name: Hojae Lee
-  photo: hojae-lee.jpg
+- email: null
   info: ECE Ph.D. Candidate
-  email:
-  number_educ: 1
-  education1: B.S. in Biomedical Engineering, University of California - Berkeley
-
-- name: Justin Kun Lee
-  photo: justunkunlee.webp
+  list_educ:
+    - B.S. in Biomedical Engineering, University of California - Berkeley
+  name: Hojae Lee
+  photo: hojae-lee.jpg
+- email: null
   info: Postdoctoral Research Fellow
-  email:
-  number_educ: 1
-  education1: Ph.D. in Microbiology and Molecular Genetics, Michigan State University
-
-- name: Chen Li
+  list_educ:
+    - Ph.D. in Microbiology and Molecular Genetics, Michigan State University
+  name: Justin Kun Lee
+  photo: justunkunlee.webp
+- email: null
+  info: DCMB Ph.D. Candidate
+  list_educ:
+    - B.S. in Bioinformatics, University of California - San Diego
+  name: Chen Li
   photo: Chen-Li.jpg
-  info: DCMB Ph.D. Candidate
-  email:
-  number_educ: 1
-  education1: B.S. in Bioinformatics, University of California - San Diego
-
-- name: Jingyi Liu
-  photo: Jingyi-Liu.jpg
-  email:
+- email: null
   info: Neuroscience B.S. Student
-  number_educ: 0
-
-- name: Jialin Liu
-  photo: Jialin-Liu.jpeg
+  list_educ: []
+  name: Jingyi Liu
+  photo: Jingyi-Liu.jpg
+- email: null
   info: DCMB Ph.D. Candidate
-  email:
-  number_educ: 1
-  education1: M.S. in Bioinformatics, University of Michigan
-
-- name: Lu Lu
-  photo: LuLu-Wang.jpg
+  list_educ:
+    - M.S. in Bioinformatics, University of Michigan
+  name: Jialin Liu
+  photo: Jialin-Liu.jpeg
+- email: null
   info: DCMB Ph.D. Candidate (joint with Vibha Lama)
-  email:
-  number_educ: 1
-  education1: M.S. in Bioinformatics, University of Michigan
-
-- name: Douglas Maldonado-Torres
-  info: Bioinformatics M.S. Student
-  number_educ: 1
-  education1: B.S. in Genomics and Molecular Genetics, Michigan State University
+  list_educ:
+    - M.S. in Bioinformatics, University of Michigan
+  name: Lu Lu
+  photo: LuLu-Wang.jpg
+- info: Bioinformatics M.S. Student
+  list_educ:
+    - B.S. in Genomics and Molecular Genetics, Michigan State University
+  name: Douglas Maldonado-Torres
   photo: Douglas-M-T.jpg
-
-- name: Jaimee Moline
-  info: Research Assistant
-  number_educ: 1
-  education1: B.S.E in Biomedical Engineering, University of Michigan
+- info: Research Assistant
+  list_educ:
+    - B.S.E in Biomedical Engineering, University of Michigan
+  name: Jaimee Moline
   photo: jmoline_413_Original.jpg
-
-- name: Weizhou Qian
-  photo: weizhou_qian.jpg
+- email: null
   info: Biostatistics MS Student
-  email:
-  number_educ: 1
-  education1: B.S. in Chemistry, Xiamen University
-
-- name: Jacob Repucci
+  list_educ:
+    - B.S. in Chemistry, Xiamen University
+  name: Weizhou Qian
+  photo: weizhou_qian.jpg
+- info: Bioinformatician
+  list_educ:
+    - B.S. in Interdisciplinary Physics, University of Michigan
+  name: Jacob Repucci
   photo: jake_rep.png
-  info: Bioinformatician
-  number_educ: 1
-  education1: B.S. in Interdisciplinary Physics, University of Michigan
-
-
-- name: Andrew Robbins
-  photo: andrew_robbins.jpg
+- email: null
   info: Systems Analyst/Bioinformatics MS Student
-  email:
-  number_educ: 1
-  education1: B.A. in Biochemistry & Music, Case Western Reserve University
-
-- name: Yuxuan Song
-  photo: YuxuanSong.png
+  list_educ:
+    - B.A. in Biochemistry & Music, Case Western Reserve University
+  name: Andrew Robbins
+  photo: andrew_robbins.jpg
+- email: null
   info: DCMB Ph.D. Candidate (joint with Matt O'Meara)
-  email:
-  number_educ: 1
-  education1: M.S. in Bioinformatics, University of Michigan
-
-- name: Yichen Wang
-  info: Bioinformatician
-  number_educ: 1
-  education1: M.S. in Bioinformatics, Boston University
+  list_educ:
+    - M.S. in Bioinformatics, University of Michigan
+  name: Yuxuan Song
+  photo: YuxuanSong.png
+- info: Bioinformatician
+  list_educ:
+    - M.S. in Bioinformatics, Boston University
+  name: Yichen Wang
   photo: Yichen-Wang.png
-
-- name: Crystal Wen
-  info: Bioinformatics Ph.D. Student
-  number_educ: 1
-  education1: M.S. in Bioinformatics, University of Michigan
+- info: Bioinformatics Ph.D. Student
+  list_educ:
+    - M.S. in Bioinformatics, University of Michigan
+  name: Crystal Wen
   photo: Crystal-Wen.jpg
-
-- name: Jane Wiesner
-  photo: jane.jpg
+- email: null
   info: Administrative Specialist Associate Healthcare
-  email:
-  number_educ: 0
+  list_educ: []
+  name: Jane Wiesner
+  photo: jane.jpg
