@@ -1,6 +1,6 @@
 ---
 title: "Welch Lab - Software"
-layout: piclay
+layout: textlay
 excerpt: "Welch Lab -- Software"
 permalink: /software/
 ---
