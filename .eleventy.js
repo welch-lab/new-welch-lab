@@ -4,7 +4,7 @@ const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const autoprefixer = require("autoprefixer");
 const yml = require("js-yaml");
 const safeLinks = require('@sardine/eleventy-plugin-external-links');
-
+const purgeCssPlugin = require("eleventy-plugin-purgecss");
 
 module.exports = function(eleventyConfig) {
     {
@@ -25,6 +25,7 @@ module.exports = function(eleventyConfig) {
         eleventyConfig.setLiquidOptions({
             dynamicPartials: false
         });
+        eleventyConfig.addPlugin(purgeCssPlugin);
         return {
             dir: {
                 input: "./",

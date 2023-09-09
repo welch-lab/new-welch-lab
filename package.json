@@ -16,6 +16,7 @@
     "bootstrap": "^5.3.1",
     "bootstrap-icons": "^1.10.5",
     "eleventy-plugin-gen-favicons": "^1.1.2",
+    "eleventy-plugin-purgecss": "^0.4.0",
     "eleventy-sass": "^2.2.3",
     "js-yaml": "^4.1.0"
   },
