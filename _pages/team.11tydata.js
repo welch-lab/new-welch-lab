@@ -2,33 +2,21 @@ module.exports = {
 "HeaderObj": "The Team",
 "carousel_entry": [
   {
-  "path": "/images/slider7001400/liger-cell.jpg",
-  "alt": "LIGER Cell 2019"
+  "path": "/images/teampic/carousel/cookout.jpg",
+  "alt": "Picture of Lab Members at DCMB cookout"
   },
 
   {
-  "path": "/images/slider7001400/online-inmf.png",
-    "alt": "Online iNMF Nature Biotechnology 2021"
+  "path": "/images/teampic/carousel/welcome.jpg",
+    "alt": "Welcome UM Researchers on sign with lab members in front"
   },
   {
-  "path": "/images/slider7001400/michigan.png",
-  "alt": "Genome Biology 2021"
+  "path": "/images/teampic/carousel/balloon.jpg",
+  "alt": "Some of the lab infront of a balloon diorama"
   },
   {
-  "path": "/images/slider7001400/atlas.png",
-    "alt": "Nature 2021"
-  },
-  {
-  "path": "/images/slider7001400/fish.jpg",
-    "alt": "EMBO Reports 2021"
-  },
-  {
-  "path": "/images/slider7001400/icm.png",
-    "alt": "Nature 2017"
-  },
-  {
-  "path": "/images/slider7001400/uinmf.png",
-    "alt": "Nature Comms 2022"
+  "path": "/images/teampic/carousel/condado.jpg",
+    "alt": "Picture of team at dinner"
   }
   ]
 }
