@@ -23,7 +23,7 @@ module.exports = function(eleventyConfig) {
                     safelist: [/^carousel\-item/]
                 }),
                  autoprefixer,
-                 cssnano]),
+                 cssnano({ preset: require('cssnano-preset-advanced')})]),
             sass: {
                 loadPaths: ["node_modules/bootstrap-icons/font/","node_modules/bootstrap/scss"],
                 style: "compressed",
