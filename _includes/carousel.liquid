@@ -34,14 +34,14 @@
           <img
             src="{{ entry.path | url }}"
             class="d-block w-100"
-            alt="entry.alt" />
+            alt="{{ entry.alt}} " />
         </div>
       {% else %}
         <div class="carousel-item">
           <img
             src="{{ entry.path | url }}"
             class="d-block w-100"
-            alt="entry.alt" />
+            alt="{{ entry.alt }}" />
         </div>
       {% endif %}
     {% endfor %}
