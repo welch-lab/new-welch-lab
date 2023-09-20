@@ -6,6 +6,7 @@ const autoprefixer = require("autoprefixer");
 const yml = require("js-yaml");
 const purgecss = require("@fullhuman/postcss-purgecss");
 const posthtml = require("posthtml");
+const htmlnano = require("htmlnano");
 const { posthtml: automaticNoopener } = require('eleventy-plugin-automatic-noopener');
 
 module.exports = function(eleventyConfig) {
@@ -36,7 +37,7 @@ module.exports = function(eleventyConfig) {
         });
         eleventyConfig.addTransform('posthtml', function(HTMLString, outputPath) {
             if(outputPath && outputPath.endsWith('html')) {
-                return posthtml([automaticNoopener()]).process(HTMLString).then(result => result.html);
+                return posthtml([automaticNoopener(), htmlnano()]).process(HTMLString).then(result => result.html);
             }
             else {
                 return HTMLString
