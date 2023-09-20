@@ -1,11 +1,12 @@
 const eleventySass = require("eleventy-sass");
 const postcss = require("postcss");
-const cssnano = require("cssnano")
+const cssnano = require("cssnano");
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const autoprefixer = require("autoprefixer");
 const yml = require("js-yaml");
-const safeLinks = require('eleventy-plugin-automatic-noopener');
 const purgecss = require("@fullhuman/postcss-purgecss");
+const posthtml = require("posthtml");
+const { posthtml: automaticNoopener } = require('eleventy-plugin-automatic-noopener');
 
 module.exports = function(eleventyConfig) {
     {
@@ -30,9 +31,16 @@ module.exports = function(eleventyConfig) {
                 rev: true
             }
         });
-        eleventyConfig.addPlugin(safeLinks);
         eleventyConfig.setLiquidOptions({
             dynamicPartials: false
+        });
+        eleventyConfig.addTransform('posthtml', function(HTMLString, outputPath) {
+            if(outputPath && outputPath.endsWith('html')) {
+                return posthtml([automaticNoopener()]).process(HTMLString).then(result => result.html);
+            }
+            else {
+                return HTMLString
+            }
         });
         return {
             dir: {
