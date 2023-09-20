@@ -1,10 +1,11 @@
 const eleventySass = require("eleventy-sass");
 const postcss = require("postcss");
+const cssnano = require("cssnano")
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const autoprefixer = require("autoprefixer");
 const yml = require("js-yaml");
 const safeLinks = require('eleventy-plugin-automatic-noopener');
-const purgeCssPlugin = require("eleventy-plugin-purgecss");
+const purgecss = require("@fullhuman/postcss-purgecss");
 
 module.exports = function(eleventyConfig) {
     {
@@ -14,7 +15,15 @@ module.exports = function(eleventyConfig) {
         eleventyConfig.addPassthroughCopy("downloads");
         eleventyConfig.addPlugin(faviconsPlugin, {});
         eleventyConfig.addPlugin(eleventySass, {
-            postcss: postcss([autoprefixer]),
+            postcss: postcss(
+                [purgecss({
+                    content: ["./_site/**/*.html", "./_site/*.html"],
+                    css: ["./_site/css/*.css"],
+                    variables: true,
+                    safelist: [/^carousel\-item/]
+                }),
+                 autoprefixer,
+                 cssnano]),
             sass: {
                 loadPaths: ["node_modules/bootstrap-icons/font/","node_modules/bootstrap/scss"],
                 style: "compressed",
@@ -25,7 +34,6 @@ module.exports = function(eleventyConfig) {
         eleventyConfig.setLiquidOptions({
             dynamicPartials: false
         });
-        eleventyConfig.addPlugin(purgeCssPlugin);
         return {
             dir: {
                 input: "./",
