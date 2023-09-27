@@ -1,9 +1,13 @@
 ---
-title: "Welch Lab - About Josh"
+title: "Welch Lab - Joshua Welch"
 layout: textlay
-excerpt: "Welch Lab -- About Josh"
+excerpt: "Welch Lab - Joshua Welch"
 permalink: /aboutme/
 ---
-THIS IS A PLACEHOLDER PAGE FOR WHATEVER YOU MAY WANT TO DO
+Associate Professor of Computational Medicine and Bioinformatics
+Associate Professor of Computer Science and Engineering
+- B.S. in Computer Science, B.Mus. in Piano, Ohio University, 2012
+- M.S., Ph.D. in Computer Science, University of North Carolina, 2017
+- Postdoctoral Training, Broad Institute of Harvard and MIT, 2017-2018
 
-ALSO WE SHOULD REALLY MOVE THE LINK TO THE [CV]({{'/downloads/JoshuaWelch-MCV-11-20-22.pdf' | url}}) here
+Academic [CV]({{'/downloads/JoshuaWelch-MCV-11-20-22.pdf' | url}})
