@@ -18,14 +18,9 @@ module.exports = function(eleventyConfig) {
         eleventyConfig.addPlugin(faviconsPlugin, {});
         eleventyConfig.addPlugin(eleventySass, {
             postcss: postcss(
-                [purgecss({
-                    content: ["./_site/**/*.html", "./_site/*.html"],
-                    css: ["./_site/css/*.css"],
-                    safelist: [/^carousel\-item/],
-                    rejected: true
-                }),
-                 autoprefixer,
-                ]),
+                [
+                autoprefixer,
+                cssnano({ preset: require('cssnano-preset-advanced') })]),
             sass: {
                 loadPaths: ["node_modules/bootstrap-icons/font/","node_modules/bootstrap/scss"],
                 style: "compressed",            }
