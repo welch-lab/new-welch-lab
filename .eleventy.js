@@ -4,7 +4,6 @@ const cssnano = require("cssnano");
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const autoprefixer = require("autoprefixer");
 const yml = require("js-yaml");
-const purgecss = require("@fullhuman/postcss-purgecss");
 const posthtml = require("posthtml");
 const htmlnano = require("htmlnano");
 const { posthtml: automaticNoopener } = require('eleventy-plugin-automatic-noopener');
