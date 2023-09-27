@@ -1,10 +1,13 @@
 const eleventySass = require("eleventy-sass");
 const postcss = require("postcss");
+const cssnano = require("cssnano");
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const autoprefixer = require("autoprefixer");
 const yml = require("js-yaml");
-const safeLinks = require('@sardine/eleventy-plugin-external-links');
-
+const purgecss = require("@fullhuman/postcss-purgecss");
+const posthtml = require("posthtml");
+const htmlnano = require("htmlnano");
+const { posthtml: automaticNoopener } = require('eleventy-plugin-automatic-noopener');
 
 module.exports = function(eleventyConfig) {
     {
@@ -14,16 +17,29 @@ module.exports = function(eleventyConfig) {
         eleventyConfig.addPassthroughCopy("downloads");
         eleventyConfig.addPlugin(faviconsPlugin, {});
         eleventyConfig.addPlugin(eleventySass, {
-            postcss: postcss([autoprefixer]),
+            postcss: postcss(
+                [purgecss({
+                    content: ["./_site/**/*.html", "./_site/*.html"],
+                    css: ["./_site/css/*.css"],
+                    safelist: [/^carousel\-item/],
+                    rejected: true
+                }),
+                 autoprefixer,
+                ]),
             sass: {
                 loadPaths: ["node_modules/bootstrap-icons/font/","node_modules/bootstrap/scss"],
-                style: "compressed",
-                rev: true
-            }
+                style: "compressed",            }
         });
-        eleventyConfig.addPlugin(safeLinks);
         eleventyConfig.setLiquidOptions({
             dynamicPartials: false
+        });
+        eleventyConfig.addTransform('posthtml', function(HTMLString, outputPath) {
+            if(outputPath && outputPath.endsWith('html')) {
+                return posthtml([automaticNoopener(), htmlnano()]).process(HTMLString).then(result => result.html);
+            }
+            else {
+                return HTMLString
+            }
         });
         return {
             dir: {
