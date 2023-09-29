@@ -17,6 +17,18 @@ module.exports = {
   {
   "path": "/images/teampic/carousel/condado.jpg",
     "alt": "Picture of team at dinner"
+  },
+  {
+  "path": "/images/teampic/carousel/IMG_7023.jpg",
+    "alt": "Volleyball at a scientific retreat"
+  },
+  {
+  "path": "/images/teampic/carousel/01172023_CSC_DCMB_Student_Web_Photos-4424.jpg",
+    "alt": "Discussions at lab meeting"
+  },
+  {
+  "path": "/images/teampic/carousel/01172023_CSC_DCMB_Student_Web_Photos-4448.jpg",
+    "alt": "Discussions at lab meeting"
   }
   ]
 }
