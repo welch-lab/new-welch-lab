@@ -1,3 +1,11 @@
+- title: "CytoSimplex: Visualizing Single-cell Fates and Transitions on a Simplex"
+  image:
+  authors:  Liu J\*, Wang Y\*, Li C, Gu Y, Ono N, Welch JD
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2023.12.07.570655v1
+    display: bioRxiv 2023
+  highlight: 0
+
 - title: "Multiplying insights from perturbation experiments: predicting new perturbation combinations"
   image:
   authors:  Welch JD
@@ -8,7 +16,7 @@
 
 - title: "Bone marrow endosteal stem cells dictate active osteogenesis and aggressive tumorigenesis"
   image:
-  authors:  Matsushita Y*, Liu J*, Ka Yan Chu A, Tsutsumi-Arai C, Nagata M, Arai Y, Ono W, Yamamoto K, Saunders TL, Welch JD*, Ono N*
+  authors:  Matsushita Y\*, Liu J\*, Ka Yan Chu A, Tsutsumi-Arai C, Nagata M, Arai Y, Ono W, Yamamoto K, Saunders TL, Welch JD*, Ono N*
   link:
     url: https://rdcu.be/daHuT
     display: Nature Communications 2023
