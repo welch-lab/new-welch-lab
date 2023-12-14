@@ -29,6 +29,10 @@ module.exports = {
   {
   "path": "/images/teampic/carousel/01172023_CSC_DCMB_Student_Web_Photos-4448.jpg",
     "alt": "Discussions at lab meeting"
+  },
+  {
+  "path": "/images/teampic/carousel/PXL_20231210_014027960.jpg",
+    "alt": "Lab Christmas party"
   }
   ]
 }
