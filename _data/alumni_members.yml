@@ -6,6 +6,12 @@
   name: Jingyi Liu
   photo: Jingyi-Liu.jpg
 
+- name: Douglas Maldonado-Torres
+  photo: Douglas-M-T.jpg
+  info: Bioinformatics M.S. student, now Data Analyst at Michigan Epidemiology
+  list_educ:
+    - M.S. in Bioinformatics, University of Michigan
+
 - name: Joshua Sodicoff
   photo: Joshua-Sodicoff.jpg
   duration: 2019-2023
