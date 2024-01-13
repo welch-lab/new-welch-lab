@@ -1,10 +1,10 @@
--title: "Endosteal stem cells at the bone-blood interface: A double-edged sword for rapid bone formation"
- image:
- authors:  Matsushita Y, Liu J, Ka Yan Chu A, Ono W, Welch JD, Ono N
- link:
+- title: "Endosteal stem cells at the bone-blood interface: A double-edged sword for rapid bone formation"
+  image:
+  authors:  Matsushita Y, Liu J, Ka Yan Chu A, Ono W, Welch JD, Ono N
+  link:
     url: https://onlinelibrary.wiley.com/doi/10.1002/bies.202300173
     display: BioEssays 2023
- highlight: 0
+  highlight: 0
 
 - title: "Predicting the Structural Impact of Human Alternative Splicing"
   image:
