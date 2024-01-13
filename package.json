@@ -24,7 +24,9 @@
     "posthtml": "^0.16.6",
     "terser": "^5.19.4"
   },
-  "dependencies": {
-    "sharp": "^0.32.4"
+  "overrides": {
+    "eleventy-plugin-gen-favicons": {
+      "sharp": "^0.32.6"
+    }
   }
 }
