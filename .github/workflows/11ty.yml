@@ -35,7 +35,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Build
-        uses: welch-lab/actions-eleventy@2b3c8a1259f55dc2dfb08fecc304ae234f55d9da
+        uses: welch-lab/actions-eleventy@master
         with:
           install_dependencies: true
       - name: Fix permissions
