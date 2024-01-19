@@ -15,7 +15,7 @@ module.exports = {
   "alt": "Some of the lab infront of a balloon diorama"
   },
   {
-  "path": "/images/teampic/carousel/condado.jpg",
+    "path": "/images/teampic/carousel/PXL_20240118_235753203.jpg",
     "alt": "Picture of team at dinner"
   },
   {
