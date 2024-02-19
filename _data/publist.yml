@@ -1,3 +1,11 @@
+- title: "Integrating single-cell multimodal epigenomic data using 1D-convolutional neural networks"
+  image:
+  authors: Gao C,  Welch JD
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.02.16.580655v1
+    display: bioRxiv 2024
+  highlight: 0
+
 - title: "Endosteal stem cells at the bone-blood interface: A double-edged sword for rapid bone formation"
   image:
   authors:  Matsushita Y, Liu J, Ka Yan Chu A, Ono W, Welch JD, Ono N
