@@ -81,6 +81,10 @@
     - M.S. in Bioinformatics, University of Michigan
   name: Lu Lu
   photo: LuLu-Wang.jpg
+- name: Dorzhey Matkhanov
+  info: Bioinformatics M.S. Student
+  list_educ: ["Bachelors in Business Informatics, HSE University - Moscow"]
+  photo: dorzhey.jpg
 - info: Bioinformatics M.S. Student
   list_educ:
     - B.S. in Genomics and Molecular Genetics, Michigan State University
