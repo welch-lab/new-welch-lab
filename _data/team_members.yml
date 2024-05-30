@@ -32,11 +32,6 @@
   list_educ: []
   name: Renxiang (Alvin) Guan
   photo: renxiang-guan.jpg
-- email: null
-  info: Computer Science and Engineering B.S. student
-  list_educ: []
-  name: Albert Hung
-  photo: AlbertHung.png
 - info: Postdoctoral Research Fellow
   list_educ:
     - Ph.D. in Mathematical, Computational, and Systems Biology, University of California
