@@ -123,3 +123,8 @@
   list_educ: []
   name: Jane Wiesner
   photo: jane.jpg
+- name: Neil Zhao
+  info: Molecular & Cellular Pathology Ph.D. Student
+  email: null
+  list_educ: ["M.S. in Toxicology, University of Michigan"]
+  photo: headshot_neil.jpeg
