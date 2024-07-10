@@ -22,7 +22,7 @@
   name: Gaurav Gadhvi
   photo: Gaurav_headshot.JPG
 - email: null
-  info: ECE Ph.D. Candidate (joint with David Blaauw)
+  info: ECE Ph.D. Candidate
   list_educ:
     - B.S. in Electrical and Computer Engineering, University of Illinois - Urbana
   name: Yichen Gu
@@ -91,7 +91,7 @@
   name: Jaimee Moline
   photo: jmoline_413_Original.jpg
 - email: null
-  info: DCMB PhD Student
+  info: DCMB PhD Candidate
   list_educ:
     - M.S. in Biostatistics, University of Michigan
   name: Weizhou Qian
@@ -129,11 +129,11 @@
   name: Jane Wiesner
   photo: jane.jpg
 - name: Mingjia Yao
-  info: Bioinformatics Ph.D. Student
+  info: Bioinformatics Ph.D. Student (joint with Sami Barmada)
   list_educ: ["MS in Biostatistics, University of Californa - Los Angeles"]
   photo: mingjia.jpg
 - name: Neil Zhao
-  info: Molecular & Cellular Pathology Ph.D. Student
+  info: Molecular & Cellular Pathology Ph.D. Student (joint with Jonny Sexton)
   email: null
   list_educ: ["M.S. in Toxicology, University of Michigan"]
   photo: headshot_neil.jpeg
