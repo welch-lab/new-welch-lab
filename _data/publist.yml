@@ -63,21 +63,13 @@
   highlight: 0
 
 - title: "Bone marrow endosteal stem cells dictate active osteogenesis and aggressive tumorigenesis"
-  image:
+  image: tumor.png
   authors:  Matsushita Y*, Liu J*, Ka Yan Chu A, Tsutsumi-Arai C, Nagata M, Arai Y, Ono W, Yamamoto K, Saunders TL, Welch JD*, Ono N*
   link:
     url: https://rdcu.be/daHuT
     display: Nature Communications 2023
-  highlight: 0
+  highlight: 1
   news2: "*Co-First Authors, Co-Senior Authors"
-
-- title: "HIV-1 Vpr combats the PU.1-driven antiviral response in primary human macrophages"
-  image:
-  authors:  Virgilio MC,  Disbennett WM,  Chen T, Lubow Jay, Welch JD, Collins KL
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2023.03.21.533528v1
-    display: bioRxiv 2023
-  highlight: 0
 
 - title: "MorphNet predicts cell morphology from single-cell gene expression"
   image:
@@ -243,7 +235,7 @@
   link:
     url: https://doi.org/10.1186/s13059-021-02373-4
     display:  Genome Biology 22, 158 (2021)
-  highlight: 1
+  highlight: 0
   news2: Also presented at Learning Meaningful Representations of Life (LMRL 2020), Workshop at NeurIPS 2020.
 
 - title: "Iterative Single-Cell Multi-Omic Integration Using Online Learning"
