@@ -72,6 +72,16 @@
   highlight: 1
   news2: "*Co-First Authors, Co-Senior Authors"
 
+- title: "Multi-omic single-cell velocity models epigenome–transcriptome interactions and improves cell fate prediction"
+  image: multivelo.png
+  authors: Li C, Virgilio MC, Collins KL, Welch JD
+  description: Cells differentiate to their final fates through sequential epigenetic and transcriptional changes. A mathematical model fit on multi-omic single-cell data yields insights into the temporal relationships between chromatin accessibility and gene expression during cell differentiation.
+  link:
+    url: https://rdcu.be/cXuUu
+    display:  Nature Biotechnology 41, 387–398 (2023).
+  highlight: 1
+  news2: Also accepted at RECOMB 2022.
+
 - title: "MorphNet predicts cell morphology from single-cell gene expression"
   image:
   authors: Lee H, Welch JD
@@ -130,16 +140,6 @@
     display:  Bioinformatics, btac190, March 2022
   highlight: 0
   news2:
-
-- title: "Multi-omic single-cell velocity models epigenome–transcriptome interactions and improves cell fate prediction"
-  image: multivelo.png
-  authors: Li C, Virgilio MC, Collins KL, Welch JD
-  description: Cells differentiate to their final fates through sequential epigenetic and transcriptional changes. A mathematical model fit on multi-omic single-cell data yields insights into the temporal relationships between chromatin accessibility and gene expression during cell differentiation.
-  link:
-    url: https://rdcu.be/cXuUu
-    display:  Nature Biotechnology 41, 387–398 (2023).
-  highlight: 1
-  news2: Also accepted at RECOMB 2022.
 
 - title: "SquiggleNet: Real-Time, Direct Classification of Nanopore Signals"
   image:
