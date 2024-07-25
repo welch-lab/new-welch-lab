@@ -65,6 +65,7 @@
 - title: "Bone marrow endosteal stem cells dictate active osteogenesis and aggressive tumorigenesis"
   image: tumor.png
   authors:  Matsushita Y*, Liu J*, Ka Yan Chu A, Tsutsumi-Arai C, Nagata M, Arai Y, Ono W, Yamamoto K, Saunders TL, Welch JD*, Ono N*
+  description: Using scRNA and snATAC analysis, we identified a new class of skeletal stem cells called osteoblast-chondrocyte transitional stem cells. OCT stem cells give rise to three types of mature bone cells after bone injury, are depleted in old mice, and cause aggressive osteosarcomas upon p53 knockout.
   link:
     url: https://rdcu.be/daHuT
     display: Nature Communications 2023
@@ -136,7 +137,7 @@
   description: Cells differentiate to their final fates through sequential epigenetic and transcriptional changes. A mathematical model fit on multi-omic single-cell data yields insights into the temporal relationships between chromatin accessibility and gene expression during cell differentiation.
   link:
     url: https://rdcu.be/cXuUu
-    display:  Nature Biotechnology 2022.
+    display:  Nature Biotechnology 41, 387–398 (2023).
   highlight: 1
   news2: Also accepted at RECOMB 2022.
 
