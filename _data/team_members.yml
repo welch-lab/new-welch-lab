@@ -27,11 +27,6 @@
     - B.S. in Electrical and Computer Engineering, University of Illinois - Urbana
   name: Yichen Gu
   photo: YichenGu_Resized.png
-- email: null
-  info: ECE B.S.E Student
-  list_educ: []
-  name: Renxiang (Alvin) Guan
-  photo: renxiang-guan.jpg
 - info: Postdoctoral Research Fellow
   list_educ:
     - Ph.D. in Mathematical, Computational, and Systems Biology, University of California
@@ -45,10 +40,9 @@
     - B.S. in Mathematics, Spring Arbor University
   name: April Kriebel
   photo: april_kriebel.png
-- info: Ph.D. in Bioinformatics
+- info: M.S. in Data Science, University of Michigan
   list_educ:
-    - Ph.D. in Bioinformatics, University of Michigan
-    - M.S in Bioengineering, Stanford University
+    - M.S. in Bioengineering, Stanford University
   name: Gretchen Lam
   photo: gl_profile_picture_720.jpg
 - email: null
