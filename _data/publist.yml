@@ -30,6 +30,14 @@
     display: Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, Volume 1870, Issue 6, 2024
   highlight: 0
 
+- title: "CytoSignal Detects Locations and Dynamics of Ligand-Receptor Signaling at Cellular Resolution from Spatial Transcriptomic Data"
+  image:
+  authors:  Liu J, Manabe H,  Qian W,  Wang Y,  Gu Y, Ka Yan Chu A, Gadhvi G,  Song Y, Ono N,  Welch JD
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.03.08.584153v1
+    display: bioRxiv 2024
+  highlight: 0
+
 - title: "Integrating single-cell multimodal epigenomic data using 1D-convolutional neural networks"
   image:
   authors: Gao C,  Welch JD
