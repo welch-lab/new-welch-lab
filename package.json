@@ -23,10 +23,5 @@
     "js-yaml": "^4.1.0",
     "posthtml": "^0.16.6",
     "terser": "^5.19.4"
-  },
-  "overrides": {
-    "eleventy-plugin-gen-favicons": {
-      "sharp": "^0.32.6"
-    }
   }
 }
