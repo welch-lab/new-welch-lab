@@ -34,7 +34,7 @@
     - B.S. in Mathematics, B.S. in Molecular Genetics, The Ohio State University
   name: Matthew Karikomi
   photo: matthew_karikomi.jpg
-  info: Postdoctoral Research Fellow
+- info: Postdoctoral Research Fellow
   list_educ:
     - Ph.D. in Microbiology and Molecular Genetics, Michigan State University
   name: Justin Kun Lee
@@ -61,7 +61,7 @@
   info: Bioinformatics M.S. Student
   list_educ: ["Bachelors in Business Informatics, HSE University - Moscow"]
   photo: dorzhey.jpg
-  info: DCMB PhD Candidate
+- info: DCMB PhD Candidate
   list_educ:
     - M.S. in Biostatistics, University of Michigan
   name: Weizhou Qian
