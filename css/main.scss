@@ -1,11 +1,12 @@
+@use "sass:map";
 @import "bootstrap";
 @import "bootstrap-icons.scss";
 @import "functions";
 @import "variables";
 @import "utilities";
-$utilities: map-merge($utilities,
-		("width": map-merge(map-get($utilities, "width"),
-				(values: map-merge(map-get(map-get($utilities, "width"), "values"),
+$utilities: map.merge($utilities,
+		("width": map.merge(map.get($utilities, "width"),
+				(values: map.merge(map.get(map.get($utilities, "width"), "values"),
 						(33: 33%),
 					),
 				),
