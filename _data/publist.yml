@@ -1,3 +1,11 @@
+- title: "Opportunities and challenges of single-cell and spatially resolved genomics methods for neuroscience discovery"
+  image:
+  authors: Bonev B, Gonçalo CB, Chen F, Codeluppi S, Corces MR, Fan J, Heiman M, Harris K, Inoue F, Kellis M, Levine A, Lotfollahi M, Luo C, Maynard KR, Nitzan M, Ramani V, Satijia R, Schirmer L, Shen Y, Sun N, Green GS, Theis F, Wang X, Welch JD, Gokce O, Konopka G, Liddelow S, Macosko E, Bayraktar O, Habib N, Nowakowski TJ
+  link:
+    url: https://www.nature.com/articles/s41593-024-01806-0
+    display: 'Nature Neuroscience 2024'
+  highlight: 0
+
 - title: "Single-cell multi-omic analysis of post-transplant mesenchymal cells reveals molecular signatures and putative regulators of lung fibrosis"
   image:
   authors: Lu L, McLinden AP, Walker NM, Vittal R, Wang Y, Combs MP, Welch JD*, Lama VN*
