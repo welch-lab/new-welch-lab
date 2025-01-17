@@ -1,3 +1,11 @@
+- title: "Integrating single-cell multimodal epigenomic data using 1D-convolutional neural networks"
+  image:
+  authors: Gao C, Welch JD
+  link:
+    url: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae705/7958576
+    display: 'Bioinformatics 2025'
+  highlight: 0
+
 - title: "Opportunities and challenges of single-cell and spatially resolved genomics methods for neuroscience discovery"
   image:
   authors: Bonev B, Gonçalo CB, Chen F, Codeluppi S, Corces MR, Fan J, Heiman M, Harris K, Inoue F, Kellis M, Levine A, Lotfollahi M, Luo C, Maynard KR, Nitzan M, Ramani V, Satijia R, Schirmer L, Shen Y, Sun N, Green GS, Theis F, Wang X, Welch JD, Gokce O, Konopka G, Liddelow S, Macosko E, Bayraktar O, Habib N, Nowakowski TJ
