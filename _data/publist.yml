@@ -1,3 +1,11 @@
+- title: "Lung CD4+ resident memory T cells use airway secretory cells to stimulate and regulate onset of allergic airway neutrophilic disease"
+  image:
+  authors: Ravi VR, Korkmaz FT, De Ana CL, Lu L, Shao FZ, Odom CV, Barker KA, Ramanujan A, Niszczak EN, Goltry WN, Martin IM, Ha CT, Quinton LJ, Jones MR, Fine A, Welch JD, Chen F, Belkina AC, Mizgerd JP, Shenoy AT
+  link:
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00065-8
+    display: 'Cell Reports 2025'
+  highlight: 0
+
 - title: "Integrating single-cell multimodal epigenomic data using 1D-convolutional neural networks"
   image:
   authors: Gao C, Welch JD
